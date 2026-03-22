@@ -1,0 +1,1078 @@
+{
+  "Aalto26": {
+    "hash = 3edd37c6": "hash = 4eba0ca3",
+    "hash = 41d712e3": "hash = 3dcf2a5e",
+    "hash = f257b9e0": "hash = 5e450498",
+    "hash = 78616c21": "hash = 7f4b67b2",
+    "hash = 83220aa9": "hash = 9f6b993d",
+    "hash = b94cc7e1": "hash = b06caa8d",
+    "hash = 03265d9c": "hash = 184f22fd",
+    "hash = e02df19b": "hash = 98a883e4"
+  },
+  "BaizhiOld": {
+    "hash = 37bed36b": "hash = 718456ac",
+    "hash = 52c9b804": "hash = d7756134",
+    "hash = 1a09bbb5": "hash = 43ae1deb",
+    "hash = d755a4a9": "hash = fe4e4afe"
+  },
+  "Baizhi22": {
+    "hash = 4a2b2eca": "hash = 3cb91e7f"
+  },
+  "Baizhi26": {
+    "hash = d755a4a9": "hash = fe4e4afe",
+    "hash = 1a09bbb5": "hash = f0f101b3",
+    "hash = 7404e947": "hash = f0f101b3",
+    "hash = 49a71537": "hash = 39b39c99",
+    "hash = 7c460f02": "hash = 4e4d79b9",
+    "hash = 804d32e9": "hash = 64b13efd",
+    "hash = 2b7eb01d": "hash = cac210d5",
+    "hash = 718456ac": "hash = 0be38d62",
+    "hash = 64cc6fa8": "hash = afe67129",
+    "hash = 91754701": "hash = a2315519",
+    "hash = d7756134": "hash = ff9b6df0"
+  },
+  "Brant26": {
+    "hash = 79c389b5": "hash = 10cdc735",
+    "hash = 93f37a93": "hash = 0f4e6e0a",
+    "hash = 41be688c": "hash = ef87053b",
+    "hash = 2cf897c6": "hash = 8b117bac",
+    "hash = 567e2ab7": "hash = 92036301",
+    "hash = 67175ee6": "hash = f69259fd",
+    "hash = 8b25adba": "hash = c1f72669",
+    "hash = 47c4cf4b": "hash = 33a5aeec",
+    "hash = 1830304b": "hash = 9c7aac2e",
+    "hash = fc28e018": "hash = b5976b09",
+    "hash = 9e2806f0": "hash = 541ea4fd"
+  },
+  "Brant30": {
+    "hash = 88535a86": "hash = 2e23b57a",
+    "hash = 1d8fc580": "hash = 5613d39c",
+    "hash = 9c7aac2e": "hash = 1d8fc580"
+  },
+  "Brant31": {
+    "hash = c1f72669": "hash = 820515a6",
+    "hash = 33a5aeec": "hash = 88535a86"
+  },
+  "CalcharoOld": {
+    "hash = 8b43ad38": "hash = f3e04a65",
+    "hash = cb23f0b5": "hash = 52197a16",
+    "hash = f657b0b8": "hash = 8a7d6de5"
+  },
+  "Calcharo_Torso26": {
+    "hash = f657b0b8": "hash = d482f64e",
+    "hash = cb23f0b5": "hash = 31f8578b"
+  },
+  "Calcharo_Lower26": {
+    "hash = 7e87c77a": "hash = d4a87b42",
+    "hash = de0af803": "hash = 5687b335",
+    "hash = 0485b505": "hash = 88fc89dd",
+    "hash = 3320efad": "hash = b578f66a",
+    "hash = 96cdca80": "hash = 790dc54b",
+    "hash = e8d882a0": "hash = 0465ef39",
+    "hash = feff1922": "hash = 71756a01",
+    "hash = 8a7d6de5": "hash = 3e77c6f1",
+    "hash = 52197a16": "hash = 1ae38ad2",
+    "hash = cd396a57": "hash = c7e92085",
+    "hash = c235c6a7": "hash = 21f813ba"
+  },
+  "Calcharo_UltiTorso26": {
+    "hash = 7fb5bdaa": "hash = 6ff53121",
+    "hash = dc896878": "hash = a9ac91bd"
+  },
+  "Camellya26": {
+    "hash = 6ce51d7a": "hash = b4355151",
+    "hash = 837c1b30": "hash = afadfdbd",
+    "hash = edfe74f8": "hash = 4df0b327",
+    "hash = fc743d45": "hash = 422a50e2",
+    "hash = 780dc4ee": "hash = edfe74f8",
+    "hash = faf8f2ae": "hash = 4cbab190",
+    "hash = 212d1d6a": "hash = 277dcf73",
+    "hash = 830aecff": "hash = 9b03ba8c",
+    "hash = 5d4de02b": "hash = d8a26ff8",
+    "hash = 0f14fc34": "hash = 26e023bb",
+    "hash = 3a299182": "hash = fed8469a",
+    "hash = 5f4e6f09": "hash = 4f357454",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = edfe74f8": "hash = e299e4ca"
+  },
+  "Cantarella22": {
+    "hash = 35c01267": "hash = b6deb6c2",
+    "hash = 354e8743": "hash = 801b4344",
+    "hash = 28105b41": "hash = 884dc2c3",
+    "hash = 0fce3633": "hash = 0480d129"
+  },
+  "Cantarella23": {
+    "hash = a45cb30b": "hash = 2745d8b5",
+    "hash = 316457f4": "hash = 4a9b2a09",
+    "hash = 787c92b8": "hash = 812ba53f",
+    "hash = 8f3ebd32": "hash = 5cfb3cbc",
+    "hash = 797bc768": "hash = ad7c2fad",
+    "hash = b6deb6c2": "hash = 734ad993",
+    "hash = 801b4344": "hash = abd93fa3",
+    "hash = 884dc2c3": "hash = e3127902",
+    "hash = 0480d129": "hash = 59c7c460"
+  },
+  "CantarellaUmbrella23": {
+    "hash = 52a54db3": "hash = 093cb526"
+  },
+  "CantarellaUmbrella26": {
+    "hash = 093cb526": "hash = 52a54db3",
+    "hash = daed0b06": "hash = 310a0a6a"
+  },
+  "Cantarella_Normal26": {
+    "hash = d789c54e": "hash = 3ebe428b",
+    "hash = 40e95d0b": "hash = 91bf0adb",
+    "hash = 812ba53f": "hash = 787c92b8",
+    "hash = 94a9c5e1": "hash = 3cda6614",
+    "hash = 2091f4e1": "hash = 87b19749",
+    "hash = c93ea25b": "hash = b8fe5f0a",
+    "hash = 87821a93": "hash = f7dadc16",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 734ad993": "hash = b6deb6c2",
+    "hash = 59c7c460": "hash = 0480d129",
+    "hash = dc14e209": "hash = 9986ce50",
+    "hash = 5db1989d": "hash = 5bbb1f80",
+    "hash = dcb62fb6": "hash = 76a3b6f4",
+    "hash = 83a99602": "hash = 5fb46aac"
+  },
+  "Cantarella_Wet26": {
+    "hash = 5e48f2a4": "hash = b4b8de71",
+    "hash = 5cfb3cbc": "hash = 8f3ebd32",
+    "hash = ef3dab0e": "hash = f6c26213",
+    "hash = a01a5acf": "hash = d0429c4a",
+    "hash = d67890aa": "hash = c3902379"
+  },
+  "Carlotta26": {
+    "hash = 90e7de37": "hash = fc76838a",
+    "hash = 129c321d": "hash = c7918746",
+    "hash = 6deb3b31": "hash = 6a96ee48",
+    "hash = 10d7620f": "hash = ee96e964",
+    "hash = abea3993": "hash = fd016c75",
+    "hash = aff53965": "hash = 463ab246",
+    "hash = 1874bd89": "hash = 27abb610",
+    "hash = c235c6a7": "hash = 21f813ba"
+  },
+
+  "Carlotta_IceHair26": {
+    "hash = 1d394c0e": "hash = c7042488",
+    "hash = 24d244c6": "hash = 2c08bef8",
+    "hash = 3886b266": "hash = cae39d06",
+    "hash = 4b8a6357": "hash = 137c6faa",
+    "hash = 7f0aa102": "hash = cae6d5b6",
+    "hash = 9d0b65e1": "hash = 1842bc28",
+    "hash = a8a2d3b8": "hash = 52f88bd2",
+    "hash = df2d1f7b": "hash = 9ec0b80f"
+  },
+
+  "Carlotta_NormalHair26": {
+    "hash = fef960d0": "hash = 15885f04",
+    "hash = 24d244c6": "hash = 2c08bef8",
+    "hash = 514a16b0": "hash = 30bc60f3",
+    "hash = a522548d": "hash = ea549e9a",
+    "hash = df2d1f7b": "hash = 9ec0b80f"
+  },
+
+  "Carlotta_Sig26": {
+    "hash = 2068cc7f": "hash = 97d0d805",
+    "hash = bbd2a5b7": "hash = bbd2a5b7",
+    "hash = e5c2ff32": "hash = bca03418"
+  },
+
+  "Carlotta_Rifle26": {
+    "hash = 722a6857": "hash = 177134b1",
+    "hash = a72986f4": "hash = a7b8292e"
+  },
+
+  "Carlotta_UltiRifle26": {
+    "hash = 3f4597f1": "hash = 4be81a6f",
+    "hash = 07b14c5e": "hash = 14933e70",
+    "hash = 25ab823d": "hash = 610dcf48"
+  },
+
+  "Cartethyia26": {
+    "hash = 64cd06f9": "hash = d98578ec",
+    "hash = 8d9954bf": "hash = 083564da",
+    "hash = fb32025d": "hash = b8b55682",
+    "hash = 423ec9ce": "hash = ecc1c90a",
+    "hash = 7ef7dba9": "hash = f953f385",
+    "hash = 7f08cd4f": "hash = a6ac08f5",
+    "hash = 3ff8b56e": "hash = 5ca9b4f0",
+    "hash = c17eb9f5": "hash = 5ec1f4de",
+    "hash = d10e2ae1": "hash = 6b7fb28f",
+    "hash = 923d8c06": "hash = 803452b8",
+    "hash = 052142b5": "hash = a8b86995",
+    "hash = f69958a2": "hash = c3235f6a",
+    "hash = fd0268ad": "hash = fec2f60b",
+    "hash = ae8fd5fb": "hash = 6c7cc5cc",
+    "hash = b0d30838": "hash = 18228dc3",
+    "hash = 241a6fbe": "hash = acfd6fe0",
+    "hash = 1f426e73": "hash = b2e6f707",
+    "hash = c5b7aee2": "hash = ffbd8eee"
+  },
+
+  "ChangLiOld": {
+    "hash = d8decbca": "hash = 1ccb8008",
+    "hash = fd9483ca": "hash = 060f5303",
+    "hash = 8f067708": "hash = f23483e3",
+    "hash = c79a4ccb": "hash = 225aad5a",
+    "hash = 77975500": "hash = 5f8aac45"
+  },
+
+  "ChangLi14": {
+    "hash = 5f8aac45": "hash = d14bed8b",
+    "hash = 1ccb8008": "hash = 59f24b66",
+    "hash = 060f5303": "hash = 277e18c9"
+  },
+
+  "Changli26": {
+    "hash = 8094e3ca": "hash = 25e6decf",
+    "hash = d6f4003a": "hash = 89da6405",
+    "hash = 30017835": "hash = fcec9218",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = a45bfe26": "hash = 3e6d3c8e",
+    "hash = 5fff67ee": "hash = 7eb470fc",
+    "hash = 1d3ad29f": "hash = fde34d42",
+    "hash = 6f7a2dab": "hash = 0484ab73",
+    "hash = 92c11772": "hash = 798ec300",
+    "hash = b54a043e": "hash = 9a3f146d",
+    "hash = e0b2f0d3": "hash = c0f0b1e1",
+    "hash = 225aad5a": "hash = a97f587b",
+    "hash = dfe134cd": "hash = 3ff7cad2",
+    "hash = f23483e3": "hash = 69994531",
+    "hash = a260e7f7": "hash = 8407b021",
+    "hash = 00e5703f": "hash = ee867ac2",
+    "hash = 998bc53c": "hash = 4da65048",
+    "hash = 2782d638": "hash = e047ea9c",
+    "hash = c02dbf56": "hash = 258c919f",
+    "hash = f98c7e7c": "hash = 59b52b44",
+    "hash = eb70f116": "hash = 1bc98900"
+  },
+
+  "Chisa28Menu": {
+    "hash = c7a7ec1b": "hash = 9121c3f8",
+    "hash = f869e47c": "hash = bb49600b",
+    "hash = 0c153c12": "hash = 403595f8",
+    "hash = 118a1a1f": "hash = a83a8906"
+  },
+
+  "Chisa28Extra2": {
+    "hash = 1af8723c": "hash = 4c7e5ddf",
+    "hash = 25367a5b": "hash = 6616fe2c"
+  },
+
+  "Chisa28Extra3": {
+    "hash = 2e966777": "hash = 4d9c4532",
+    "hash = ceb4b0f5": "hash = b4a8aefa"
+  },
+
+  "Chisa28Chainsaw": {
+    "hash = 4ae5d777": "hash = ea7a9c63",
+    "hash = bee2935e": "hash = 23b680fe",
+    "hash = 696814e9": "hash = d01fdd4f",
+    "hash = 89517d4e": "hash = 35b4ef7f",
+    "hash = 11105c28": "hash = 7b7f1a19",
+    "hash = c56a780b": "hash = a6605a4e"
+  },
+
+  "Chisa30Menu": {
+    "hash = 37250244": "hash = 8348a33b",
+    "hash = fee91ed9": "hash = d8ed7611"
+  },
+
+  "Chisa30Chainsaw": {
+    "hash = ea7a9c63": "hash = 8348a33b",
+    "hash = 23b680fe": "hash = 06ecbf72",
+    "hash = a6605a4e": "hash = 2970cef1",
+    "hash = d01fdd4f": "hash = a5da2563",
+    "hash = 790f2cee": "hash = d2bc37bc",
+    "hash = 29b60a1b": "hash = 412ba586",
+    "hash = b95895cf": "hash = 2a9050cc",
+    "hash = d1996971": "hash = 0cc6f756"
+  },
+
+  "Chisa31": {
+    "hash = 8348a33b": "hash = 15cddd7c",
+    "hash = 06ecbf72": "hash = d6d66a07",
+    "hash = 9121c3f8": "hash = 662f126a",
+    "hash = fbcb1f4b": "hash = 2694816c",
+    "hash = fadd0cd0": "hash = 0aaef5a6",
+    "hash = 403595f8": "hash = 35b4ef7f",
+    "hash = bb49600b": "hash = e783ca72",
+    "hash = 4c7e5ddf": "hash = bb708c4d",
+    "hash = 4d9c4532": "hash = f42f50d6",
+    "hash = 790f2cee": "hash = 0fe3a99b",
+    "hash = 29b60a1b": "hash = 9c743ba1"
+  },
+
+  "Chixia13": {
+    "hash = eee73787": "hash = ab72381e",
+    "hash = 435d999a": "hash = aeb47e33",
+    "hash = 45e0cedb": "hash = 7988637b",
+    "hash = 489b5f2a": "hash = 94afca13",
+    "hash = cb974015": "hash = 94d10f56",
+    "hash = ba246036": "hash = 873ca04e",
+    "hash = 4a2657d7": "hash = a7141c04"
+  },
+
+  "Chixia21": {
+    "hash = 489b5f2a": "hash = 94afca13"
+  },
+
+  "Chixia22": {
+    "hash = ab72381e": "hash = eee73787",
+    "hash = a7141c04": "hash = 4a2657d7",
+    "hash = 94afca13": "hash = 489b5f2a",
+    "hash = 7988637b": "hash = 45e0cedb",
+    "hash = 873ca04e": "hash = ba246036"
+  },
+
+  "Chixia26": {
+    "hash = eee73787": "hash = ab72381e",
+    "hash = 8f423e37": "hash = 75333d76",
+    "hash = 489b5f2a": "hash = 94afca13",
+    "hash = 4a2657d7": "hash = a7141c04",
+    "hash = ba246036": "hash = 873ca04e",
+    "hash = 9497a1b9": "hash = d51104f6",
+    "hash = e29e63d6": "hash = 8080d570",
+    "hash = 45e0cedb": "hash = 7988637b",
+    "hash = 9f2544e0": "hash = ebe1f999"
+  },
+
+  "Ciaccona24": {
+    "hash = 24af21ae": "hash = d79a3f55",
+    "hash = 1603d6fa": "hash = 839d2623",
+    "hash = d79a3f55": "hash = 24af21ae",
+    "hash = 839d2623": "hash = 1603d6fa"
+  },
+
+  "Ciaccona25": {
+    "hash = 9b440397": "hash = 3d32cb0e",
+    "hash = e73ee6fb": "hash = 8183786e",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 5395f197": "hash = f1838b66",
+    "hash = c26d7da2": "hash = 29c8d938",
+    "hash = 34617fc8": "hash = 8def9d8b",
+    "hash = cd7ec1f3": "hash = e3e1281a",
+    "hash = 61fce32b": "hash = 6f62c47a",
+    "hash = beb2b10e": "hash = 9d0fefda",
+    "hash = c44c3cb9": "hash = f7063e17",
+    "hash = b5222998": "hash = 996b2e4b"
+  },
+
+  "Ciaccona26": {
+    "hash = 19d3de08": "hash = a20c032a",
+    "hash = fe853fcf": "hash = 10d1aeac",
+    "hash = d79a3f55": "hash = 24af21ae",
+    "hash = 4358f290": "hash = de5a0f92",
+    "hash = 852b2b72": "hash = 342dcbc3",
+    "hash = bf7e0ab1": "hash = e7f8bb3b",
+    "hash = 4c379f61": "hash = 6f620405",
+    "hash = cca1af56": "hash = 5a41b6fa",
+    "hash = 2f590d3f": "hash = f58c741e",
+    "hash = 748f8d97": "hash = 1cffa7e8",
+    "hash = 3b5e4a9b": "hash = 37400c45",
+    "hash = 4e1fdf28": "hash = ed5511fe",
+    "hash = 1e072c24": "hash = 1f746639",
+    "hash = 09e98e33": "hash = 0448648a"
+  },
+
+  "Ciaccona_Mic26": {
+    "hash = 61d7bfce": "hash = b017285b",
+    "hash = d89de028": "hash = 967c93f1"
+  },
+
+  "Ciaccona_Lute26": {
+    "hash = 5954a1e0": "hash = ab798136",
+    "hash = 25d94733": "hash = 0fac7daf"
+  },
+
+  "Danjin26": {
+    "hash = bcf3db0a": "hash = 45a6240e",
+    "hash = 1dd49aa4": "hash = cea68862",
+    "hash = 5da1a7ae": "hash = 7536f732",
+    "hash = b7758489": "hash = beefbd72",
+    "hash = da15e0f7": "hash = 18a39719",
+    "hash = f56dbcb4": "hash = 8ae06cff",
+    "hash = f6910c93": "hash = 3802a4e4",
+    "hash = 500d4413": "hash = 659ab32e",
+    "hash = 7c720662": "hash = d35da2f0",
+    "hash = 2e599849": "hash = 6969fb89",
+    "hash = e2321307": "hash = 65e1499b",
+    "hash = b4618a2b": "hash = 11315dc1",
+    "hash = c1f7edcc": "hash = 689e446c",
+    "hash = 63fbfe72": "hash = 99179105"
+  },
+
+  "Encore13": {
+    "hash = a347d2bc": "hash = 47c515ac",
+    "hash = 6ff2b9f1": "hash = b6021f06"
+  },
+
+  "Fleurdelys25": {
+    "hash = d685d037": "hash = c9124759",
+    "hash = 858f3573": "hash = c51948e5",
+    "hash = 54d78775": "hash = d1534303",
+    "hash = c344d062": "hash = 1c8589de",
+    "hash = 3766bc13": "hash = b9a64e57",
+    "hash = 14e47dee": "hash = 4bac35dd",
+    "hash = 1f606caf": "hash = 50de5497",
+    "hash = f4e65f69": "hash = c51aa8d2",
+    "hash = 8022dc07": "hash = 5eee477c",
+    "hash = 73110195": "hash = 8160bcb0",
+    "hash = 00a2663b": "hash = bd9cd630",
+    "hash = 48e09820": "hash = 40cd7ff6",
+    "hash = 439a22f3": "hash = 8721570a"
+  },
+
+  "Fleurdelys27": {
+    "hash = 6a6cd394": "hash = 2416ec07"
+  },
+
+  "Galbrena27": {
+    "hash = cff007ea": "hash = 3765f0a6"
+  },
+
+  "Jianxin13": {
+    "hash = 80f8caf9": "hash = e9f8341f",
+    "hash = affc2fc3": "hash = 82d39ecb",
+    "hash = ead048c8": "hash = 068dd115"
+  },
+
+  "Jianxin14": {
+    "hash = e9f8341f": "hash = 9b60ec42",
+    "hash = 82d39ecb": "hash = 29ba85c5",
+    "hash = 068dd115": "hash = bc9677ff"
+  },
+
+  "Jianxin26": {
+    "hash = 5f672bb2": "hash = 6b0f5c7a",
+    "hash = 21bc79a7": "hash = af3ba321",
+    "hash = 0862e376": "hash = 83744475",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 6c077c81": "hash = ae193e08",
+    "hash = 6700cf35": "hash = 55023199",
+    "hash = 11dd8502": "hash = 329a04e7",
+    "hash = 534c2615": "hash = 4c0805e1",
+    "hash = 3782ab1b": "hash = 837eb0d7",
+    "hash = a7275cef": "hash = 55a56862",
+    "hash = dab9d56b": "hash = 134a5c16",
+    "hash = 09f954e5": "hash = 4701ab34",
+    "hash = 68c6a3a6": "hash = a42480d2",
+    "hash = f095bfbc": "hash = be729d1a",
+    "hash = 45f7105b": "hash = f524ad06"
+  },
+
+  "Jinhsi24": {
+    "hash = 21828bbd": "hash = 27036b65"
+  },
+
+  "Jinhsi26": {
+    "hash = 14ecacf3": "hash = 188f9150",
+    "hash = 4296f0e8": "hash = 9d12b710",
+    "hash = d2715d43": "hash = d2715d43",
+    "hash = 354569e8": "hash = 439ed7f4",
+    "hash = 27f4ef91": "hash = 95034a03",
+    "hash = e51cf6a4": "hash = 81bc8818",
+    "hash = e7191b19": "hash = d00f99ad",
+    "hash = 3943dca3": "hash = 7031d19e",
+    "hash = 911dca0f": "hash = 88aafbc0",
+    "hash = 27036b65": "hash = 5b14639e",
+    "hash = 64bbdb18": "hash = e51f0115",
+    "hash = 70b95d89": "hash = 829180c8"
+  },
+
+  "JiyanOld": {
+    "hash = b05fac63": "hash = 9631335c",
+    "hash = 1b3a68de": "hash = 7741698a"
+  },
+
+  "Jiyan26": {
+    "hash = 9a8dc04e": "hash = 55f78d68",
+    "hash = 46f910cf": "hash = 40346675",
+    "hash = 70727fb3": "hash = 64d51f09",
+    "hash = cbe41f58": "hash = 05fa5a06",
+    "hash = 781bb5d4": "hash = 18c53df4",
+    "hash = 1b3a68de": "hash = d8621e79",
+    "hash = 919672df": "hash = 7367d0af",
+    "hash = 8bba6141": "hash = deab020e",
+    "hash = 36807a81": "hash = 16662002",
+    "hash = b05fac63": "hash = e82d0d1f",
+    "hash = adcb548e": "hash = 92e1b9ce",
+    "hash = aedc62a4": "hash = adcb548e"
+  },
+
+  "Jiyan31": {
+    "hash = 31b50c1d": "hash = 9e6ec5e2"
+  },
+
+  "Lingyang14": {
+    "hash = 587edf05": "hash = 9925d10e"
+  },
+
+  "Lingyang22": {
+    "hash = 8b3c13f9": "hash = 9925d10e",
+    "hash = b239a59d": "hash = d02c1cb1",
+    "hash = 497106c3": "hash = 2e3de562"
+  },
+
+  "Lumi26": {
+    "hash = 0390820a": "hash = 8e28c8e7",
+    "hash = a2c25060": "hash = 27308969",
+    "hash = a9b2a415": "hash = 68916487",
+    "hash = 2decd61b": "hash = d23090a3",
+    "hash = 73dc0ecf": "hash = 33d29aa1",
+    "hash = dda29ba9": "hash = ac26dd3b",
+    "hash = 35c1c5cf": "hash = 43682482",
+    "hash = 97e43063": "hash = a614279c",
+    "hash = 4dba3f46": "hash = 1e238f6c",
+    "hash = 0249a0f6": "hash = d2ad31db",
+    "hash = 4afb92ae": "hash = 801f9d6e",
+    "hash = 74703d44": "hash = c38e9ebc"
+  },
+
+  "Lumi30": {
+    "hash = a614279c": "hash = f515fdbd",
+    "hash = 1e238f6c": "hash = cc83d4fc",
+    "hash = c3b2f4ed": "hash = 3038f25c",
+    "hash = 80fdc4d8": "hash = 091af072"
+  },
+
+  "Lumi31": {
+    "hash = f515fdbd": "hash = cb79c2db",
+    "hash = cc83d4fc": "hash = 53037e57"
+  },
+
+  "Lupa25": {
+    "hash = e541ab4b": "hash = 312fc5e4"
+  },
+
+  "Lupa26": {
+    "hash = eb4d05bb": "hash = 3ba4af04",
+    "hash = 06c9cbd2": "hash = 20927988",
+    "hash = c5d64764": "hash = d1c82bf3",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 5d7d3f28": "hash = 41532ac9",
+    "hash = 84206d9f": "hash = 3cf552bd",
+    "hash = 77ba7584": "hash = bbb18270",
+    "hash = bd1bcfd8": "hash = 8f9bacd2",
+    "hash = e4638507": "hash = 4c57726e",
+    "hash = 62ef42ef": "hash = b7a16140",
+    "hash = 79b6c3f4": "hash = 9d5fe765",
+    "hash = c347ca65": "hash = 1443c0c0",
+    "hash = 0bf5cead": "hash = 7fb7147f"
+  },
+  "Luuk31": {
+    "hash = 3bbfa5a0": "hash = f16f00ed"
+  },
+
+  "Lynae31": {
+    "hash = 513eace9": "hash = 1261dcbc",
+    "hash = 347a41a2": "hash = 8e20c909",
+    "hash = 17372a89": "hash = b5453395",
+    "hash = f45cea79": "hash = 47df9d42",
+    "hash = 879f275e": "hash = 70ee685f",
+    "hash = ec6b0edc": "hash = 6c09d0d7",
+    "hash = a8e46264": "hash = 358f8d1e",
+    "hash = 211e50f4": "hash = 37cdf366",
+    "hash = 391a7fde": "hash = ba2b09a1",
+    "hash = cb04a3d7": "hash = c84b599c"
+  },
+
+  "Mornye31": {
+    "hash = 350db74d": "hash = 448e8475",
+    "hash = 69fb6d9d": "hash = e5aaf214",
+    "hash = d4b685ff": "hash = 201f9795",
+    "hash = 4d520209": "hash = 82e6ec0c",
+    "hash = 4b7131f7": "hash = adb701fd",
+    "hash = 7b258721": "hash = 45658d90",
+    "hash = 3ea68ef7": "hash = d5e47035",
+    "hash = 84a341b4": "hash = 2d26a8fe",
+    "hash = 8e65d75a": "hash = 345146b8",
+    "hash = 242b3c97": "hash = 435cc2ca",
+    "hash = 5a92790e": "hash = dc90fe92",
+    "hash = 37971681": "hash = b864a3fa",
+    "hash = 4249bbc8": "hash = 7e69cd36",
+    "hash = 1b14a741": "hash = 21da94eb",
+    "hash = 4979c5b0": "hash = 75f3ce40",
+    "hash = 1e7c100d": "hash = afacbd93",
+    "hash = 2a6aa36b": "hash = 2bf9506c",
+    "hash = f2768109": "hash = 1557244b"
+  },
+
+  "Mortefi26": {
+    "hash = 11b18904": "hash = 2a5da812",
+    "hash = 92474c68": "hash = 6a56519c",
+    "hash = 6d76b1cc": "hash = 0f14dc92",
+    "hash = 7eee35f8": "hash = 6e183bd5",
+    "hash = 27c4d37a": "hash = 794917a4",
+    "hash = 885fa0c2": "hash = 39e87ecf",
+    "hash = bedffbf4": "hash = 794917a4",
+    "hash = 18fb0f57": "hash = 1d2ca7a8",
+    "hash = 97ef5c1a": "hash = 800ac367",
+    "hash = 413c2f2e": "hash = 39144df1",
+    "hash = 62949a6c": "hash = b8690bc1",
+    "hash = 5e6a779f": "hash = b775a156",
+    "hash = f81811a7": "hash = fbf9f66a",
+    "hash = be6d8bde": "hash = 539b81a3"
+  },
+
+  "Phoebe21": {
+    "hash = 3a4bf877": "hash = 8ee2fb7c",
+    "hash = a284a970": "hash = 00b2a919",
+    "hash = baea13f2": "hash = ecac2cc5"
+  },
+
+  "Phoebe22": {
+    "hash = 8ee2fb7c": "hash = 026f7616",
+    "hash = 00b2a919": "hash = 8ba3d365",
+    "hash = ecac2cc5": "hash = 2c8f9580",
+    "hash = 4a30f1df": "hash = 83bc4e8a"
+  },
+
+  "Phoebe26": {
+    "hash = 04c4949f": "hash = cd290e05",
+    "hash = 1641ec82": "hash = eeefa6b0",
+    "hash = bace929a": "hash = cb5eca8c",
+    "hash = 08ee69e1": "hash = 22a9e382",
+    "hash = 18b491c2": "hash = 06b39fed",
+    "hash = a04d2480": "hash = 620fd27a",
+    "hash = 0da7ba9d": "hash = 76402ba3",
+    "hash = cbe73490": "hash = 78fa07fc",
+    "hash = 2b6e5340": "hash = 18aae516",
+    "hash = 83bc4e8a": "hash = 0758a784",
+    "hash = 9772a12f": "hash = 989a9b41",
+    "hash = 99f06647": "hash = 5198cff7",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 3e216e73": "hash = 1bc4da29"
+  },
+
+  "Phrolova25": {
+    "hash = 9b2007f8": "hash = d8121963",
+    "hash = 8592dec8": "hash = b7d01975",
+    "hash = be835337": "hash = e6819fc8"
+  },
+
+  "Phrolova26": {
+    "hash = e6819fc8": "hash = c9a55c1a"
+  },
+
+  "Roccia26": {
+    "hash = df813937": "hash = ea12c00e",
+    "hash = 87d73bf2": "hash = 21ff0f89",
+    "hash = 42d605d4": "hash = 98decec7",
+    "hash = 86f266a5": "hash = 39db08c0",
+    "hash = 6f2fd0ce": "hash = 48bd8b69",
+    "hash = 1d5ea77e": "hash = c915f11c",
+    "hash = 1e5ddfd3": "hash = 7515ea2e",
+    "hash = 16558db2": "hash = 859f8f55",
+    "hash = 8c76d557": "hash = 24b44872",
+    "hash = b56a599b": "hash = 8759aa05",
+    "hash = c1803315": "hash = 84e10138",
+    "hash = e7e6a2e3": "hash = 9c92e45e",
+    "hash = c9c9ae65": "hash = 4c151aa4",
+    "hash = f10f32ad": "hash = 778a83a4",
+    "hash = 718589a4": "hash = 0807dcc7",
+    "hash = 843152d9": "hash = 8759aa05",
+    "hash = af77fb44": "hash = 84e10138"
+  },
+
+  "RoverMOld": {
+    "hash = d53c2cc7": "hash = c9db8418",
+    "hash = f8375eb4": "hash = 3ab7c4d1",
+    "hash = 6e2f48ba": "hash = a4be44e5"
+  },
+
+  "RoverM13": {
+    "hash = f16d5dae": "hash = a1c0d97c"
+  },
+
+  "RoverM21": {
+    "hash = d53c2cc7": "hash = c9db8418",
+    "hash = f8375eb4": "hash = 3ab7c4d1",
+    "hash = 6e2f48ba": "hash = a4be44e5"
+  },
+
+  "RoverM22": {
+    "hash = c9db8418": "hash = e18ca2cc",
+    "hash = 3ab7c4d1": "hash = f8375eb4",
+    "hash = a4be44e5": "hash = 6e2f48ba",
+    "hash = a1c0d97c": "hash = f16d5dae",
+    "hash = 7931ea8a": "hash = fedfec0e",
+    "hash = 249200ff": "hash = e18ca2cc"
+  },
+
+  "RoverM23": {
+    "hash = e18ca2cc": "hash = b22dacf9"
+  },
+
+  "RoverM26": {
+    "hash = 275382c9": "hash = 7de9f13a",
+    "hash = b4855e43": "hash = 7de9f13a",
+    "hash = f16d5dae": "hash = a1c0d97c",
+    "hash = fedfec0e": "hash = e2c06226",
+    "hash = 65af60de": "hash = 6bc458a2",
+    "hash = 454843d1": "hash = 7997ade0",
+    "hash = db7ba06b": "hash = 5606456f",
+    "hash = 13bc29e0": "hash = 756ab255",
+    "hash = fa3f84a8": "hash = 29304593",
+    "hash = 3cd03f60": "hash = 1dcc0f1d",
+    "hash = 56343b28": "hash = 6913dea1"
+  },
+
+  "RoverM31": {
+    "hash = b22dacf9": "hash = 8b386efa",
+    "hash = f8375eb4": "hash = ec747460",
+    "hash = 6e2f48ba": "hash = 89e3b104",
+    "hash = e2c06226": "hash = a2ac355e"
+  },
+
+  "RoverFOld": {
+    "hash = be84b775": "hash = e8b5a730"
+  },
+
+  "RoverF13": {
+    "hash = 2d5b41f6": "hash = 372bd73a"
+  },
+
+  "RoverF14": {
+    "hash = c446a221": "hash = 99d33a32",
+    "hash = aeb47e33": "hash = e04dea55"
+  },
+
+  "RoverF23": {
+    "hash = e8b5a730": "hash = 3533a957"
+  },
+
+  "RoverF26": {
+    "hash = 6aac203f": "hash = 04192868",
+    "hash = dcae957e": "hash = 68a6b802",
+    "hash = a2aed964": "hash = 2ff23d4c",
+    "hash = be8666c3": "hash = a01c9b96",
+    "hash = 1fe7c3f1": "hash = 946ec36c",
+    "hash = 7bc718ed": "hash = 84025dca",
+    "hash = 99d33a32": "hash = c79b5772",
+    "hash = 12407ce2": "hash = ab6288a3",
+    "hash = c39ea10a": "hash = 747ada83",
+    "hash = cccc4663": "hash = f85b1b15",
+    "hash = fa3f84a8": "hash = 29304593",
+    "hash = 3cd03f60": "hash = 1dcc0f1d",
+    "hash = a2207e11": "hash = 52c18227"
+  },
+
+  "RoverF28": {
+    "hash = 3533a957": "hash = bd26f515",
+    "hash = 52c18227": "hash = 8ee0408c"
+  },
+
+  "RoverF30": {
+    "hash = bd26f515": "hash = 06482222",
+    "hash = 8ee0408c": "hash = 52c18227"
+  },
+
+  "RoverF31": {
+    "hash = 06482222": "hash = 4d3d06a6"
+  },
+
+  "Sanhua13": {
+    "hash = 2584190a": "hash = cef6494f",
+    "hash = 28708ab8": "hash = 0bd3b5ab",
+    "hash = 5efe7892": "hash = 89ba19a1",
+    "hash = 11b9cadd": "hash = f0713dc7"
+  },
+
+  "Sanhua26": {
+    "hash = 48616ac9": "hash = ae6e9014",
+    "hash = 345368c9": "hash = 1c0c8b91",
+    "hash = 1bdd0987": "hash = 1035197c",
+    "hash = 3cd03f60": "hash = 1dcc0f1d",
+    "hash = 98b9635b": "hash = 68ca7071",
+    "hash = 2584190a": "hash = cef6494f",
+    "hash = aa70ef15": "hash = 881c236d",
+    "hash = 03d9850b": "hash = e39835c7",
+    "hash = 4b6d52b9": "hash = fde0f298",
+    "hash = 0521977a": "hash = efb25eb3",
+    "hash = ebeeda8c": "hash = abda232b",
+    "hash = 2c0c2728": "hash = c689a8ee",
+    "hash = 16695017": "hash = f3b217ab",
+    "hash = f0713dc7": "hash = f0713dc7"
+  },
+
+  "SanhuaSkin26": {
+    "hash = 31a5f36a": "hash = f8d5c991",
+    "hash = d153e37f": "hash = 63c807fe",
+    "hash = d78ad0f5": "hash = c74af063",
+    "hash = f22348f0": "hash = 4478285f",
+    "hash = 464256d1": "hash = c98e83cd",
+    "hash = 9522bbc7": "hash = 11171f1c",
+    "hash = a0cf932f": "hash = 9febd992",
+    "hash = 168462a9": "hash = 52f35e6d",
+    "hash = d5a089c8": "hash = 72739d6e",
+    "hash = 43dc9bdf": "hash = 1d50aa4a",
+    "hash = fd078186": "hash = 8e5306a9",
+    "hash = d96aa9b8": "hash = 221b8ad6"
+  },
+
+  "Shorekeeper26": {
+    "hash = 1fb14596": "hash = c148034c",
+    "hash = 952d9960": "hash = 8e19fa21",
+    "hash = a2f6b3e4": "hash = 13baf2f6",
+    "hash = 2779cda7": "hash = fb389390",
+    "hash = 5e0383e5": "hash = 41b0d744",
+    "hash = be955444": "hash = 529645a1",
+    "hash = 6a6c419b": "hash = 2293ef8e",
+    "hash = 15d38062": "hash = 5aa61d2f",
+    "hash = 26ef0c33": "hash = ec2a6255",
+    "hash = 5ae09e60": "hash = a8ef808e",
+    "hash = 5019e88f": "hash = f47bc395",
+    "hash = 2cb33efd": "hash = d2f2fe3e",
+    "hash = b7997090": "hash = b9136153",
+    "hash = 33b7a4d5": "hash = 4b0e4779",
+    "hash = 49f91bc3": "hash = a7c9acc3",
+    "hash = f510cf89": "hash = 03284c19",
+    "hash = 00b2fa86": "hash = 6e3d31e6",
+    "hash = 9699548f": "hash = 41bd7de9"
+  },
+
+  "Taoqi26": {
+    "hash = 9557c49e": "hash = b5c93936",
+    "hash = 3b69e4b4": "hash = a39f43c8",
+    "hash = 982bdcc5": "hash = d5ba0088",
+    "hash = dec4f75e": "hash = 4e4bbb32",
+    "hash = b0e248c5": "hash = 16d55d60",
+    "hash = 33a41964": "hash = 6c4bd3dc",
+    "hash = b1372fdd": "hash = b51d4fd4",
+    "hash = 9b47f413": "hash = 8a1d8b17",
+    "hash = 4ba577c5": "hash = 2c5e38b6"
+  },
+
+  "VerinaOld": {
+    "hash = 83ced9f7": "hash = 82aa82e1"
+  },
+
+  "Verina13": {
+    "hash = fd892e3c": "hash = 953daba7",
+    "hash = 5981e400": "hash = 40f3c4ea",
+    "hash = 63d590db": "hash = c0ca0958"
+  },
+
+  "Verina26": {
+    "hash = 679ad2f5": "hash = 16b54cef",
+    "hash = 309b25ba": "hash = edc699f5",
+    "hash = cb01a05c": "hash = 03416881",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 24c1883d": "hash = 5e99cc67",
+    "hash = fcc47274": "hash = e2a003ed",
+    "hash = ae7043eb": "hash = e2887be0",
+    "hash = 953daba7": "hash = 48c627b9",
+    "hash = c0ca0958": "hash = 08be5cdb",
+    "hash = 40f3c4ea": "hash = a2d01f96",
+    "hash = dc7f97f7": "hash = 412de025"
+  },
+
+  "XiangliYao26": {
+    "hash = 59f0cae9": "hash = 65f5a746",
+    "hash = 794bf372": "hash = aa467d8c",
+    "hash = d966cc04": "hash = 19190a12",
+    "hash = 1ccddcaf": "hash = 312a23b3",
+    "hash = a6ddeb73": "hash = 847d7908",
+    "hash = 30766750": "hash = d3334af2",
+    "hash = 392cfad5": "hash = c5e3d837",
+    "hash = ae7af048": "hash = 707ddd83",
+    "hash = 866e8a91": "hash = 866e8a91",
+    "hash = 580004ac": "hash = 77fc9adf",
+    "hash = ab04dbfe": "hash = df7dcbad",
+    "hash = 7ce42dd7": "hash = fcc7fe3a",
+    "hash = 7f1ed7f3": "hash = ccea891f",
+    "hash = 3865a786": "hash = 0f2ce004",
+    "hash = 9af1a3b1": "hash = 12f7f3a3",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = 2fed1aa0": "hash = dfbe6069",
+    "hash = 7c17bb8d": "hash = 548b37ed",
+    "hash = 7291186a": "hash = f0ba2ca2"
+  },
+
+  "YangYang13": {
+    "hash = 77fe24ce": "hash = d25b9648",
+    "hash = edf438d9": "hash = 3bd37212",
+    "hash = 95caeb9c": "hash = 250c59b6",
+    "hash = 123bcc8e": "hash = fba3de34",
+    "hash = bd8fff82": "hash = c3b2a42e",
+    "hash = f42c4870": "hash = 8e27c9a2",
+    "hash = 69c48be0": "hash = 1a9b9391",
+    "hash = 92d4ad47": "hash = 49b790e0",
+    "hash = 16f9802d": "hash = ae886086",
+    "hash = fc40048f": "hash = 250c59b6",
+    "hash = b487d389": "hash = 6905a9bd",
+    "hash = 1607589b": "hash = 02e9009d"
+  },
+
+  "Yangyang22": {
+    "hash = d25b9648": "hash = 77fe24ce",
+    "hash = fba3de34": "hash = 123bcc8e",
+    "hash = 1a9b9391": "hash = 69c48be0",
+    "hash = 3bd37212": "hash = edf438d9",
+    "hash = 8e27c9a2": "hash = f42c4870",
+    "hash = c3b2a42e": "hash = bd8fff82",
+    "hash = 250c59b6": "hash = fc40048f",
+    "hash = ae886086": "hash = 16f9802d",
+    "hash = 02e9009d": "hash = 1607589b",
+    "hash = 49b790e0": "hash = 92d4ad47"
+  },
+
+  "Yangyang26": {
+    "hash = 77fe24ce": "hash = d25b9648",
+    "hash = 123bcc8e": "hash = fba3de34",
+    "hash = f42c4870": "hash = 8e27c9a2",
+    "hash = bd8fff82": "hash = c3b2a42e",
+    "hash = 93072758": "hash = 0293109d",
+    "hash = 1e9a1fb8": "hash = a871413a",
+    "hash = 69c48be0": "hash = 1a9b9391",
+    "hash = edf438d9": "hash = 3bd37212",
+    "hash = 16f9802d": "hash = ae886086",
+    "hash = 6905a9bd": "hash = 2da427ff",
+    "hash = fc40048f": "hash = 250c59b6",
+    "hash = 1607589b": "hash = 02e9009d",
+    "hash = 92d4ad47": "hash = 49b790e0",
+    "hash = cc7a443c": "hash = 29942440"
+  },
+
+  "Yinlin13": {
+    "hash = 00120eee": "hash = 86b95122",
+    "hash = 584b7755": "hash = 750390fa",
+    "hash = 87bbb0c1": "hash = 30053482",
+    "hash = 9ea4dc96": "hash = 76967821",
+    "hash = 58b06268": "hash = 1f0f6dc8",
+    "hash = 71525c2a": "hash = 7d1b007a",
+    "hash = e50849e0": "hash = e56f82b1",
+    "hash = 3271530d": "hash = 5f0fbdb9"
+  },
+
+  "Yinlin22": {
+    "hash = 7d1b007a": "hash = 71525c2a",
+    "hash = 5f0fbdb9": "hash = 3271530d"
+  },
+
+  "Yinlin26": {
+    "hash = 71525c2a": "hash = 7d1b007a",
+    "hash = 3271530d": "hash = 5f0fbdb9",
+    "hash = 1f0f6dc8": "hash = 58b06268",
+    "hash = 86b95122": "hash = 00120eee",
+    "hash = 76967821": "hash = 9ea4dc96",
+    "hash = 30053482": "hash = 87bbb0c1",
+    "hash = 750390fa": "hash = 584b7755",
+    "hash = 711af10e": "hash = 55c63039",
+    "hash = 8493df3e": "hash = c425fd58",
+    "hash = e56f82b1": "hash = e50849e0"
+  },
+
+  "Yinlin31": {
+    "hash = 42702199": "hash = 0b8b7323"
+  },
+
+  "Youhu26": {
+    "hash = 9b11d340": "hash = bf48c10e",
+    "hash = 1012570b": "hash = 5d5ee265",
+    "hash = a2cc097f": "hash = a3b840f8",
+    "hash = 7e251226": "hash = cf0ae3d8",
+    "hash = aa28d63e": "hash = 221d712d",
+    "hash = 39ffdf33": "hash = ae2fe6e9",
+    "hash = 450040b2": "hash = 41ced95a",
+    "hash = a95def0b": "hash = 39696fc7",
+    "hash = eb5b96b2": "hash = a0e3c5cb",
+    "hash = baee6fc5": "hash = bfd993d3",
+    "hash = dd54d712": "hash = 37dcbf53",
+    "hash = 0eb7da46": "hash = 2d7bb11f",
+    "hash = c1078929": "hash = 5e0d738a",
+    "hash = 8b1913b4": "hash = 1079fd6f"
+  },
+
+  "Yuanwu26": {
+    "hash = a59c17cb": "hash = d6b9870f",
+    "hash = ce0a295e": "hash = 7b4fd238",
+    "hash = 2ba57c1b": "hash = 7681bf3d",
+    "hash = 6aa8b697": "hash = 31d64d0d",
+    "hash = 389f5e85": "hash = a6c496bb",
+    "hash = 14df60bb": "hash = d9a6d77f",
+    "hash = 1319b682": "hash = 53e67a3d",
+    "hash = de05e406": "hash = 091b887c",
+    "hash = 8c299dbf": "hash = 7a0e2aa2",
+    "hash = c6025664": "hash = 7feb53b2",
+    "hash = 43799dd2": "hash = bda4f564"
+  },
+
+  "Zhezhi22": {
+    "hash = c8b08afd": "hash = b4525ff8",
+    "hash = 4cdc5987": "hash = a7ff2cab",
+    "hash = 7ebe61e9": "hash = 2208a16a"
+  },
+
+  "Zhezhi26": {
+    "hash = 16bf75a8": "hash = 15d8e51d",
+    "hash = dc383c2f": "hash = 8f1f16f2",
+    "hash = e2ff72ff": "hash = a07dd592",
+    "hash = 04f24eb9": "hash = cc072002",
+    "hash = 2c9428d3": "hash = 333217d7",
+    "hash = 8427b202": "hash = 082752de",
+    "hash = a28f18f6": "hash = 1f4bb8ab",
+    "hash = 14df60bb": "hash = d9a6d77f",
+    "hash = 9122d2f2": "hash = db2412ad",
+    "hash = 815d50a9": "hash = 9bf218c0",
+    "hash = 2931bfa1": "hash = 42b99a48",
+    "hash = 93904edd": "hash = 6ba42f12",
+    "hash = 26045936": "hash = 246557d6"
+  },
+
+  "Zani23": {
+    "hash = eb7b28e3": "hash = 8acf0a92",
+    "hash = 12b90236": "hash = 07352718",
+    "hash = b9f4b0b4": "hash = c2727ed7"
+  },
+
+  "Zani26Menu": {
+    "hash = 7f15f013": "hash = 5bcca6de",
+    "hash = 71f1a895": "hash = 1133b076",
+    "hash = a7869af0": "hash = 6df52af4",
+    "hash = a6006726": "hash = 2ba75c9c",
+    "hash = 988c2332": "hash = ac687edd",
+    "hash = ce1aa29a": "hash = 17d03603",
+    "hash = 6b885af9": "hash = 85371f27",
+    "hash = 69ce5914": "hash = de4463e0",
+    "hash = 66ec53c0": "hash = 612a235b",
+    "hash = c91bc37a": "hash = 5fe6e3f5",
+    "hash = bfaa82b4": "hash = 67316edd",
+    "hash = c676996a": "hash = 18a76e47",
+    "hash = 73c4cc50": "hash = 726c6138"
+  },
+
+  "Zani26Liberation": {
+    "hash = f005294b": "hash = eba837f6",
+    "hash = 4fb245db": "hash = a5da61f8",
+    "hash = ac0a77cf": "hash = 34fd8ff4",
+    "hash = 34774f22": "hash = 3624cd00",
+    "hash = c235c6a7": "hash = 21f813ba",
+    "hash = c28372b3": "hash = a4a04996",
+    "hash = 6070986d": "hash = de0e0858"
+  },
+
+  "Zani27Upper": {
+    "hash = 8acf0a92": "hash = 616f86d7"
+  },
+
+  "Zani27Lower": {
+    "hash = 07352718": "hash = c99c5635"
+  },
+
+  "Zani27Menu": {
+    "hash = c2727ed7": "hash = 3d7098cb"
+  },
+
+  "Zani30Menu": {
+    "hash = 612a235b": "hash = d1c1a195",
+    "hash = 18a76e47": "hash = 61de7097"
+  },
+
+  "Zani31Menu": {
+    "hash = d1c1a195": "hash = eba80d04",
+    "hash = 61de7097": "hash = eec46ff3"
+  }
+}

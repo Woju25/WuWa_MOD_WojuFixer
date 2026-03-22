@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+	<UseWindowsForms>true</UseWindowsForms>
+	<ApplicationIcon>bin\Release\net10.0-windows\Woju.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="4 Transparent.png" />
+    <None Remove="Assets\hashes.json" />
+    <None Remove="thumb-1920-1406017.jpg" />
+    <None Remove="Woju.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\hashes.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Release\net10.0-windows\Woju.ico" />
+    <Content Include="Woju.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="4 Transparent.png" />
+    <Resource Include="thumb-1920-1406017.jpg" />
+  </ItemGroup>
+	
+
+</Project>

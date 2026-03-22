@@ -1,0 +1,87 @@
+﻿<Window x:Class="WuWa_MOD_WojuFixer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Woju - WuWa MOD Fixer"
+        Height="520" Width="820"
+        WindowStartupLocation="CenterScreen" Icon="/4 Transparent.png">
+    <Window.Background>
+        <ImageBrush ImageSource="/thumb-1920-1406017.jpg"/>
+    </Window.Background>
+    <Grid Margin="14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0"
+                   Text="Woju: Select your mod folder (only files named mod.ini in that folder and subfolders will be processed)."
+                   TextWrapping="Wrap"
+                   Margin="0,0,0,8"/>
+
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="FolderTextBox"
+                     IsReadOnly="True"
+                     Height="30"
+                     VerticalContentAlignment="Center"
+                     Margin="0,0,10,0"/>
+
+            <Button x:Name="BrowseButton"
+                    Grid.Column="1"
+                    Content="Browse..."
+                    Width="120"
+                    Height="30"
+                    Click="BrowseButton_Click"/>
+        </Grid>
+
+        <GroupBox Grid.Row="2" Header="Log">
+            <Grid>
+                <TextBox x:Name="LogTextBox"
+                 IsReadOnly="True"
+                 TextWrapping="Wrap"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 FontFamily="Consolas"
+                 FontSize="12"
+                 Padding="8"
+                 Background="#CC111111"
+                 Foreground="White"
+                 CaretBrush="White"
+                 BorderBrush="#FF444444"/>
+            </Grid>
+        </GroupBox>
+
+        <Grid Grid.Row="3" Margin="0,12,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="RunButton"
+                    Content="Run Fix"
+                    Width="120"
+                    Height="34"
+                    Click="RunButton_Click" Background="White"/>
+
+            <Button x:Name="ClearLogButton"
+                    Grid.Column="1"
+                    Content="Clear Log"
+                    Width="120"
+                    Height="34"
+                    Margin="10,0,0,0"
+                    Click="ClearLogButton_Click" Background="White"/>
+
+            <StackPanel Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <TextBlock Foreground="Gray" Text="User: Woju25" Margin="0,0,12,0"/>
+                <TextBlock Foreground="Gray" Text="Requires hashes.json next to the .exe"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
