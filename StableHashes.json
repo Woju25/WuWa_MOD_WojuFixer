@@ -1,40 +1,6 @@
 {
   "schemaVersion": 1,
 
-  "uiText": {
-    "alreadyAppliedInfo": "Stable Textures are already applied to this mod. No changes were made.",
-    "missingDiffuseWarning": "Diffuse texture not found for Component {ComponentIndex}. Skipped Stable Textures injection for this component.",
-    "missingLightmapWarning": "Lightmap texture not found for Component {ComponentIndex}. Applied Diffuse only.",
-    "missingNormalmapWarning": "Normalmap texture not found for Component {ComponentIndex}. Applied Diffuse only."
-  },
-
-  "detect": {
-    "alreadyAppliedIfIniContainsAny": [
-      "Resource\\RabbitFX\\Diffuse",
-      "Resource\\RabbitFX\\Lightmap",
-      "Resource\\RabbitFX\\Normalmap",
-      "run = Commandlist\\RabbitFX\\SetTextures",
-      "run = CommandList\\RabbitFX\\SetTextures"
-    ]
-  },
-
-  "inject": {
-    "insertAfterLines": [
-      "run = CommandListTriggerResourceOverrides",
-      "run = CommandListOverrideSharedResources"
-    ],
-
-    "diffuseLineTemplate": "Resource\\RabbitFX\\Diffuse = ref {DiffuseResource}",
-    "lightmapLineTemplate": "Resource\\RabbitFX\\Lightmap = ref {LightmapResource}",
-    "normalmapLineTemplate": "Resource\\RabbitFX\\Normalmap = ref {NormalmapResource}",
-    "runLine": "run = Commandlist\\RabbitFX\\SetTextures",
-
-    "behavior": {
-      "insertRunLineIfOnlyDiffuseApplied": true,
-      "caseInsensitiveHashSearch": true,
-      "caseInsensitiveIniFilenameMatch": true
-    }
-  },
 
   "characters": [
     {
