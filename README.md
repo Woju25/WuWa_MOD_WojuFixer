@@ -61,7 +61,7 @@ Rover (M), Qiuyuan, Luuk, Xiangli Yao
 - ❌ It won’t support future patches instantly
 - ⚠️ Currently focused on **character mods** (weapons/other assets may need future updates)
 - ⚠️ If a mod is very old / heavily edited, it may still need manual fixing
-
+- ⚠️ This app is intended only for temporary textures fix, when you zoomed-out the camera too far, mod will still disappear (need to wait for XXMI update)
 ---
 
 ## 💡 Why I made this
