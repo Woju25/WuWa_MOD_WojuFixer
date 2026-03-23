@@ -58,7 +58,7 @@ namespace WuWa_MOD_WojuFixer.Core
             if (string.IsNullOrWhiteSpace(from) || string.IsNullOrWhiteSpace(to))
                 throw new InvalidDataException($"Group '{groupName}' has an empty key/value.");
 
-            // Your requirement: exact format with spacing/case like "hash = 3edd37c6"
+            // Requirement: exact format with spacing/case like "hash = 3edd37c6"
             if (!from.StartsWith("hash = ", StringComparison.Ordinal) ||
                 !to.StartsWith("hash = ", StringComparison.Ordinal))
             {
