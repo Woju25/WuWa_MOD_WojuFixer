@@ -6,29 +6,34 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
-	<UseWindowsForms>true</UseWindowsForms>
-	<ApplicationIcon>bin\Release\net10.0-windows\Woju.ico</ApplicationIcon>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Woju.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="4 Transparent.png" />
     <None Remove="Assets\hashes.json" />
+    <None Remove="Assets\StableHashes.json" />
     <None Remove="thumb-1920-1406017.jpg" />
     <None Remove="Woju.ico" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Assets\hashes.json">
+      <Link>hashes.json</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="bin\Release\net10.0-windows\Woju.ico" />
-    <Content Include="Woju.ico" />
+
+    <Content Include="Assets\StableHashes.json">
+      <Link>StableHashes.json</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="4 Transparent.png" />
     <Resource Include="thumb-1920-1406017.jpg" />
+    <Resource Include="Woju.ico" />
   </ItemGroup>
-	
 
 </Project>

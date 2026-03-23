@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 using System.Threading.Tasks;
 using System.Windows;
-using WinForms = System.Windows.Forms;
 using WuWa_MOD_WojuFixer.Core;
+using WinForms = System.Windows.Forms;
 
 namespace WuWa_MOD_WojuFixer
 {
@@ -13,6 +14,18 @@ namespace WuWa_MOD_WojuFixer
         {
             InitializeComponent();
             Log("Ready (Woju).");
+        }
+
+        // These handlers exist only to satisfy XAML if you hooked them up there.
+        // They are optional; you can remove the Checked/Unchecked attributes from XAML instead.
+        private void StableTexturesCheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            // Optional: Log("StableTextures enabled.");
+        }
+
+        private void StableTexturesCheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            // Optional: Log("StableTextures disabled.");
         }
 
         private void BrowseButton_Click(object sender, RoutedEventArgs e)
@@ -46,6 +59,7 @@ namespace WuWa_MOD_WojuFixer
                     return;
                 }
 
+                // 1) Normal hash replacement
                 var hashesPath = Path.Combine(AppContext.BaseDirectory, "hashes.json");
                 Log($"Loading hashes: {hashesPath}");
 
@@ -66,15 +80,45 @@ namespace WuWa_MOD_WojuFixer
                     Log($"WARNING: {summary.FilesHitMaxPasses} file(s) hit the max pass limit (possible replacement cycle).");
                 }
 
-                if (!summary.AnyChange)
+                if (summary.AnyChange)
                 {
-                    System.Windows.MessageBox.Show("No changes needed.", "Woju");
-                    Log("No changes needed. No files were modified.");
-                    return;
+                    Log("Applying changes (creating backups first)...");
+                    await Task.Run(() => processor.ExecutePlans(plans));
+                    Log("Normal hash replacement completed.");
+                }
+                else
+                {
+                    Log("Normal hash replacement: no changes needed.");
                 }
 
-                Log("Applying changes (creating backups first)...");
-                await Task.Run(() => processor.ExecutePlans(plans));
+                // 2) StableTextures injection (optional)
+                if (StableTexturesCheckBox.IsChecked == true)
+                {
+                    var stableHashesPath = Path.Combine(AppContext.BaseDirectory, "StableHashes.json");
+                    Log($"Loading StableHashes: {stableHashesPath}");
+
+                    var stable = StableHashesLoader.Load(stableHashesPath);
+
+                    var injector = new StableTexturesInjector(stable);
+                    Log("Scanning mod.ini files for StableTextures injection...");
+                    var (injSummary, injPlans) = await Task.Run(() => injector.Preview(folder));
+
+                    Log($"StableTextures - mod.ini scanned: {injSummary.ModIniFound}");
+                    Log($"StableTextures - files changed: {injSummary.ModIniChanged}");
+                    Log($"StableTextures - components applied: {injSummary.TotalComponentsApplied}");
+                    Log($"StableTextures - files skipped (already applied): {injSummary.FilesSkippedAlreadyApplied}");
+
+                    if (injSummary.AnyChange)
+                    {
+                        Log("Applying StableTextures injection (creating backups first)...");
+                        await Task.Run(() => injector.ExecutePlans(injPlans));
+                        Log("StableTextures injection completed.");
+                    }
+                    else
+                    {
+                        Log("StableTextures injection: no changes needed.");
+                    }
+                }
 
                 System.Windows.MessageBox.Show("Completed successfully.", "Woju");
                 Log("Completed successfully.");
@@ -95,6 +139,30 @@ namespace WuWa_MOD_WojuFixer
         {
             LogTextBox.Clear();
             Log("Log cleared.");
+        }
+
+        private void BrowseWojuModsButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenUrl("https://www.youtube.com/@Woju25");
+        }
+
+        private void DownloadRabbitFxButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenUrl("https://gamebanana.com/mods/527815");
+        }
+
+        private void WojuKofiButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenUrl("https://ko-fi.com/wo_ju");
+        }
+
+        private static void OpenUrl(string url)
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            });
         }
 
         private void Log(string message)

@@ -1,0 +1,1422 @@
+{
+  "schemaVersion": 1,
+
+
+    "characters": [
+        {
+            "name": "Aemeath",
+            "characterHash": "2738a0f0",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "34d0acfd",
+                    "lightmapHash": "f4d53308",
+                    "normalmapHash": "8f535dff",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "e341a037",
+                    "lightmapHash": "a617d6c7",
+                    "normalmapHash": "8b228d89",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "0454fc47",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse only."
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "f58624fb",
+                    "lightmapHash": "79081b2b",
+                    "normalmapHash": "fda934b4",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "3a5a08ac",
+                    "lightmapHash": "b3927ca5",
+                    "normalmapHash": "0eb70c8f",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "9c0c016b",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse only."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "1d31d19d",
+                    "lightmapHash": "d3387127",
+                    "normalmapHash": "2d9235e9",
+                    "optionalNotes": "Component 6: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "ec96a652",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 7: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Augusta",
+            "characterHash": "c7aae00c",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "36d75345",
+                    "lightmapHash": "2d5efbf5",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "c2492522",
+                    "lightmapHash": "68e90221",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "3153462b",
+                    "lightmapHash": "985701bc",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "d7d7a406",
+                    "lightmapHash": "93d4bc23",
+                    "normalmapHash": "06299d10",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "c613797e",
+                    "lightmapHash": "c0044934",
+                    "normalmapHash": "2066c564",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "8d61b0da",
+                    "lightmapHash": "edab99db",
+                    "normalmapHash": "c596dbd6",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "0136425d",
+                    "lightmapHash": null,
+                    "normalmapHash": "7d4edaf8",
+                    "optionalNotes": "Component 6: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "b6c382a8",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 7: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Cantarella",
+            "characterHash": "5432f939",
+            "lastVerifiedGameVersion": "3.0.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "3ebe428b",
+                    "lightmapHash": "91bf0adb",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "b8fe5f0a",
+                    "lightmapHash": "87b19749",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "2c488db0",
+                    "lightmapHash": "0c868365",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "787c92b8",
+                    "lightmapHash": "22ba1d3e",
+                    "normalmapHash": "3cda6614",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "b6deb6c2",
+                    "lightmapHash": "89e2bbf1",
+                    "normalmapHash": "0480d129",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "9986ce50",
+                    "lightmapHash": "8ecda31a",
+                    "normalmapHash": "b00d33d6",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "5bbb1f80",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "76a3b6f4",
+                    "lightmapHash": "9a126c64",
+                    "normalmapHash": "5fb46aac",
+                    "optionalNotes": "Component 7: Diffuse + Lightmap + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Carlotta",
+            "characterHash": "4ba716ae",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "fc76838a",
+                    "lightmapHash": "c83f222f",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "6a96ee48",
+                    "lightmapHash": "333ad4cc",
+                    "normalmapHash": "ee96e964",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "fd016c75",
+                    "lightmapHash": "463ab246",
+                    "normalmapHash": "27abb610",
+                    "optionalNotes": "Component 2: Diffuse + Lightmap + Normalmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "c7918746",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 3: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "CarlottaHairNormal",
+            "characterHash": "15885f04",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "ea549e9a",
+                    "lightmapHash": "2c08bef8",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "30bc60f3",
+                    "lightmapHash": "9ec0b80f",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                }
+            ]
+        },
+        {
+            "name": "CarlottaHairCrystal",
+            "characterHash": "873457db",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "c7042488",
+                    "lightmapHash": "2c08bef8",
+                    "normalmapHash": "cae39d06",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "1842bc28",
+                    "lightmapHash": "9ec0b80f",
+                    "normalmapHash": "cae6d5b6",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Chisa",
+            "characterHash": "afa1587c",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "15cddd7c",
+                    "lightmapHash": "0aaef5a6",
+                    "normalmapHash": "d0d2cc80",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "d6d66a07",
+                    "lightmapHash": "130a3d58",
+                    "normalmapHash": "d8ed7611",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "a620843e",
+                    "lightmapHash": "f1c2e889",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "662f126a",
+                    "lightmapHash": "a83a8906",
+                    "normalmapHash": "eca8e09b",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "e783ca72",
+                    "lightmapHash": "403595f8",
+                    "normalmapHash": "9b396b0d",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "cd006f06",
+                    "lightmapHash": null,
+                    "normalmapHash": "0cc6f756",
+                    "optionalNotes": "Component 5: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "1131e4c1",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Cartethyia",
+            "characterHash": "a48fddd1",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "d98578ec",
+                    "lightmapHash": "b8b55682",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "5ca9b4f0",
+                    "lightmapHash": "6b7fb28f",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "ecc1c90a",
+                    "lightmapHash": "f953f385",
+                    "normalmapHash": "a6ac08f5",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "fec2f60b",
+                    "lightmapHash": null,
+                    "normalmapHash": "a8b86995",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "6c7cc5cc",
+                    "lightmapHash": null,
+                    "normalmapHash": "18228dc3",
+                    "optionalNotes": "Component 5: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "acfd6fe0",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "b2e6f707",
+                    "lightmapHash": null,
+                    "normalmapHash": "ffbd8eee",
+                    "optionalNotes": "Component 7: Diffuse + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Ciaccona",
+            "characterHash": "e57c9380",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "10d1aeac",
+                    "lightmapHash": "a20c032a",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "342dcbc3",
+                    "lightmapHash": "e7f8bb3b",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "6f620405",
+                    "lightmapHash": "32271b48",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "24af21ae",
+                    "lightmapHash": "ea49c595",
+                    "normalmapHash": "de5a0f92",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "f58c741e",
+                    "lightmapHash": null,
+                    "normalmapHash": "1cffa7e8",
+                    "optionalNotes": "Component 4: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "5a41b6fa",
+                    "lightmapHash": "cf8ac68f",
+                    "normalmapHash": "37400c45",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "ed5511fe",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "1f746639",
+                    "lightmapHash": null,
+                    "normalmapHash": "0448648a",
+                    "optionalNotes": "Component 7: Diffuse + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Fleurdelys",
+            "characterHash": "2416ec07",
+            "lastVerifiedGameVersion": "2.7.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "4bac35dd",
+                    "lightmapHash": "c51aa8d2",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "50de5497",
+                    "lightmapHash": "5eee477c",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "b9a64e57",
+                    "lightmapHash": "6df8bc60",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "ece8436e",
+                    "lightmapHash": "cc3910e7",
+                    "normalmapHash": "8160bcb0",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "bd9cd630",
+                    "lightmapHash": "21d627d4",
+                    "normalmapHash": "40cd7ff6",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "c51948e5",
+                    "lightmapHash": null,
+                    "normalmapHash": "1c8589de",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "c9124759",
+                    "lightmapHash": null,
+                    "normalmapHash": "d1534303",
+                    "optionalNotes": "Component 6: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "8721570a",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 7: Diffuse only (eyes)."
+                }
+            ]
+        },
+        {
+            "name": "Galbrena",
+            "characterHash": "3765f0a6",
+            "lastVerifiedGameVersion": "2.7.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "3c29f760",
+                    "lightmapHash": "be367fc9",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "d30b1a7a",
+                    "lightmapHash": "224c55ef",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "73e396e6",
+                    "lightmapHash": "f1c2e889",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "722aab39",
+                    "lightmapHash": "3a8954eb",
+                    "normalmapHash": "54d3f1fa",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "153bf11f",
+                    "lightmapHash": "f7e87f20",
+                    "normalmapHash": "b5e505fe",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "aa8d8af5",
+                    "lightmapHash": "5f0e43e7",
+                    "normalmapHash": "cad50fd9",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "205adb6b",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Iuno",
+            "characterHash": "f8b55eeb",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "eb383fa1",
+                    "lightmapHash": "a410510a",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "b399ecff",
+                    "lightmapHash": "cb93d0e5",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "8e0e454d",
+                    "lightmapHash": "f026fa9b",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "5815b5b3",
+                    "lightmapHash": "b36886fb",
+                    "normalmapHash": "c70b9ab1",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "eb65da67",
+                    "lightmapHash": "a50b55d6",
+                    "normalmapHash": "7143a508",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "8390ce3a",
+                    "lightmapHash": null,
+                    "normalmapHash": "058e71e8",
+                    "optionalNotes": "Component 5: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "36921691",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Lupa",
+            "characterHash": "5b33088a",
+            "lastVerifiedGameVersion": "3.0.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "3ba4af04",
+                    "lightmapHash": "d1c82bf3",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "3cf552bd",
+                    "lightmapHash": "41532ac9",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "bbb18270",
+                    "lightmapHash": "248b354f",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "312fc5e4",
+                    "lightmapHash": "eb3b4396",
+                    "normalmapHash": "6f70c428",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "8f9bacd2",
+                    "lightmapHash": null,
+                    "normalmapHash": "4c57726e",
+                    "optionalNotes": "Component 4: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "b7a16140",
+                    "lightmapHash": null,
+                    "normalmapHash": "9d5fe765",
+                    "optionalNotes": "Component 5: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "1443c0c0",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Luuk",
+            "characterHash": "f16f00ed",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "ee87d588",
+                    "lightmapHash": "44a7d030",
+                    "normalmapHash": "61c8b5d0",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "9b6c0a01",
+                    "lightmapHash": "cbef30ae",
+                    "normalmapHash": "63aad023",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "205a6c11",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse only. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "1aab24c3",
+                    "lightmapHash": "55d1429f",
+                    "normalmapHash": "75044bfc",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "51e24364",
+                    "lightmapHash": "824080cb",
+                    "normalmapHash": "20682b3f",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "71659245",
+                    "lightmapHash": "0474775e",
+                    "normalmapHash": "b17ad082",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "dc3785f8",
+                    "lightmapHash": "9e5a4789",
+                    "normalmapHash": "c53088e7",
+                    "optionalNotes": "Component 6: Diffuse + Lightmap + Normalmap. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "6946794b",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 7: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Lynae",
+            "characterHash": "0c33d628",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "b0e8646a",
+                    "lightmapHash": "8e20c909",
+                    "normalmapHash": "1261dcbc",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "7065b0be",
+                    "lightmapHash": "47df9d42",
+                    "normalmapHash": "b5453395",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "2e60ca6c",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse only. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "60caec0b",
+                    "lightmapHash": "38686e88",
+                    "normalmapHash": "2fd59f3a",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "23d9b128",
+                    "lightmapHash": "dd5dceaa",
+                    "normalmapHash": "6c09d0d7",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "70ee685f",
+                    "lightmapHash": "10c8713e",
+                    "normalmapHash": "358f8d1e",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "37cdf366",
+                    "lightmapHash": "7aa57b2c",
+                    "normalmapHash": "ba2b09a1",
+                    "optionalNotes": "Component 6: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "c84b599c",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 7: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Mornye",
+            "characterHash": "691e4f5f",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "448e8475",
+                    "lightmapHash": "435cc2ca",
+                    "normalmapHash": "dc90fe92",
+                    "optionalNotes": "Component 0: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "e5aaf214",
+                    "lightmapHash": "7e69cd36",
+                    "normalmapHash": "ec17ddf3",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "82e6ec0c",
+                    "lightmapHash": "e9ec3443",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "201f9795",
+                    "lightmapHash": "05ad6976",
+                    "normalmapHash": "b864a3fa",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "adb701fd",
+                    "lightmapHash": "078d4b06",
+                    "normalmapHash": "75f3ce40",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "d5e47035",
+                    "lightmapHash": "2bf9506c",
+                    "normalmapHash": "1557244b",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "2d26a8fe",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "45658d90",
+                    "lightmapHash": "5bd6d2d0",
+                    "normalmapHash": "21da94eb",
+                    "optionalNotes": "Component 7: Diffuse + Lightmap + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Phoebe",
+            "characterHash": "026f7616",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "eeefa6b0",
+                    "lightmapHash": "cd290e05",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "06b39fed",
+                    "lightmapHash": "22a9e382",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "620fd27a",
+                    "lightmapHash": "44cdd259",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "78fa07fc",
+                    "lightmapHash": "87686929",
+                    "normalmapHash": "18aae516",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "0758a784",
+                    "lightmapHash": "2187f9c9",
+                    "normalmapHash": "5198cff7",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "1bc4da29",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse only."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "cb5eca8c",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "45658d90",
+                    "lightmapHash": "5bd6d2d0",
+                    "normalmapHash": "21da94eb",
+                    "optionalNotes": "Component 7: Diffuse + Lightmap + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "Phrolova",
+            "characterHash": "2819cef7",
+            "lastVerifiedGameVersion": "2.6.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "584e289f",
+                    "lightmapHash": "a7bc8074",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "5ef9b4d3",
+                    "lightmapHash": "eb978a29",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "183fe440",
+                    "lightmapHash": "b55a11e4",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "d8121963",
+                    "lightmapHash": "b7d01975",
+                    "normalmapHash": "c9a55c1a",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "dd620352",
+                    "lightmapHash": "854d739c",
+                    "normalmapHash": "d054db9b",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "5052ee31",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse only."
+                }
+            ]
+        },
+        {
+            "name": "RoverM",
+            "characterHash": "8b386efa",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "7de9f13a",
+                    "lightmapHash": "a1c0d97c",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "9ac598b5",
+                    "lightmapHash": "e17e9a42",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "6bc458a2",
+                    "lightmapHash": "21993deb",
+                    "normalmapHash": "7997ade0",
+                    "optionalNotes": "Component 2: Diffuse + Lightmap + Normalmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "5606456f",
+                    "lightmapHash": null,
+                    "normalmapHash": "756ab255",
+                    "optionalNotes": "Component 3: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "6913dea1",
+                    "lightmapHash": "8383cbbf",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 4: Diffuse + Lightmap. (Eyes - normal)"
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "29304593",
+                    "lightmapHash": "c88cc1fc",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 4: Diffuse + Lightmap. (Eyes - aero)"
+                }
+            ]
+        },
+        {
+            "name": "RoverF",
+            "characterHash": "4d3d06a6",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "04192868",
+                    "lightmapHash": "68a6b802",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "a01c9b96",
+                    "lightmapHash": "2ff23d4c",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "c8064e9e",
+                    "lightmapHash": "071744c8",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "e57c98f4",
+                    "lightmapHash": "1091025c",
+                    "normalmapHash": "ab6288a3",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "f85b1b15",
+                    "lightmapHash": "372bd73a",
+                    "normalmapHash": "747ada83",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "52c18227",
+                    "lightmapHash": "8383cbbf",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse + Lightmap. (Eyes - normal)"
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "85700b55",
+                    "lightmapHash": "c88cc1fc",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse + Lightmap. (Eyes - aero)"
+                }
+            ]
+        },
+        {
+            "name": "Shorekeeper",
+            "characterHash": "0266ab77",
+            "lastVerifiedGameVersion": "3.0.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "13baf2f6",
+                    "lightmapHash": "8e19fa21",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "529645a1",
+                    "lightmapHash": "41b0d744",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "5aa61d2f",
+                    "lightmapHash": "87e93853",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "d2f2fe3e",
+                    "lightmapHash": "1cd5eb92",
+                    "normalmapHash": "b9136153",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "4b0e4779",
+                    "lightmapHash": "2b933cc9",
+                    "normalmapHash": "03284c19",
+                    "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "fb389390",
+                    "lightmapHash": null,
+                    "normalmapHash": "ec2a6255",
+                    "optionalNotes": "Component 5: Diffuse + Normalmap. (Eyes)"
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "6e3d31e6",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes - aero)"
+                }
+            ]
+        },
+        {
+            "name": "Qiuyuan",
+            "characterHash": "5634b8f2",
+            "lastVerifiedGameVersion": "3.0.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "4977b68f",
+                    "lightmapHash": "feabd438",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "18184205",
+                    "lightmapHash": "e576ca47",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "e4dfca63",
+                    "lightmapHash": "f07b6c56",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "d30d805c",
+                    "lightmapHash": "d870255f",
+                    "normalmapHash": "b213bf63",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "aed40665",
+                    "lightmapHash": null,
+                    "normalmapHash": "f9de85f8",
+                    "optionalNotes": "Component 4: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "b5c941de",
+                    "lightmapHash": "c8dc4a2b",
+                    "normalmapHash": "09a9dbc1",
+                    "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 6,
+                    "diffuseHash": "66e6fa10",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 6: Diffuse only. (Eyes)"
+                }
+            ]
+        },
+        {
+            "name": "Xiangli Yao",
+            "characterHash": "ed536543",
+            "lastVerifiedGameVersion": "2.8.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "19190a12",
+                    "lightmapHash": "65f5a746",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "312a23b3",
+                    "lightmapHash": "d3334af2",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "c5e3d837",
+                    "lightmapHash": "9a0854f4",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "77fc9adf",
+                    "lightmapHash": "866e8a91",
+                    "normalmapHash": "df7dcbad",
+                    "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 4,
+                    "diffuseHash": "0f2ce004",
+                    "lightmapHash": null,
+                    "normalmapHash": "fcc7fe3a",
+                    "optionalNotes": "Component 4: Diffuse + Normalmap."
+                },
+                {
+                    "componentIndex": 5,
+                    "diffuseHash": "12f7f3a3",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 5: Diffuse only. (Eyes)"
+                },
+                {
+                    "componentIndex": 7,
+                    "diffuseHash": "548b37ed",
+                    "lightmapHash": null,
+                    "normalmapHash": "dfbe6069",
+                    "optionalNotes": "Component 7: Diffuse + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "ZaniLower",
+            "characterHash": "c99c5635",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "de4463e0",
+                    "lightmapHash": "002ba82f",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "ac687edd",
+                    "lightmapHash": "7a411663",
+                    "normalmapHash": "17d03603",
+                    "optionalNotes": "Component 1: Diffuse + Lightmap + Normalmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "726c6138",
+                    "lightmapHash": null,
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 2: Diffuse only. (Face)"
+                }
+            ]
+        },
+        {
+            "name": "ZaniUpper",
+            "characterHash": "616f86d7",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "1133b076",
+                    "lightmapHash": "5bcca6de",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "6df52af4",
+                    "lightmapHash": "85371f27",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "5fe6e3f5",
+                    "lightmapHash": "2bf706b8",
+                    "normalmapHash": "eba80d04",
+                    "optionalNotes": "Component 2: Diffuse + Lightmap + Normalmap. (Face)"
+                },
+                {
+                    "componentIndex": 3,
+                    "diffuseHash": "67316edd",
+                    "lightmapHash": null,
+                    "normalmapHash": "eec46ff3",
+                    "optionalNotes": "Component 3: Diffuse + Normalmap."
+                }
+            ]
+        },
+        {
+            "name": "ZaniUlti",
+            "characterHash": "dbc0a3d1",
+            "lastVerifiedGameVersion": "3.1.0",
+            "lastUpdatedDate": "2026-03-22",
+            "enabled": true,
+
+            "components": [
+                {
+                    "componentIndex": 0,
+                    "diffuseHash": "eba837f6",
+                    "lightmapHash": "3c1567ae",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 0: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 1,
+                    "diffuseHash": "34fd8ff4",
+                    "lightmapHash": "a5da61f8",
+                    "normalmapHash": null,
+                    "optionalNotes": "Component 1: Diffuse + Lightmap."
+                },
+                {
+                    "componentIndex": 2,
+                    "diffuseHash": "a4a04996",
+                    "lightmapHash": "5261a986",
+                    "normalmapHash": "3624cd00",
+                    "optionalNotes": "Component 2: Diffuse + Lightmap + Normalmap. (Face)"
+                }
+            ]
+        }
+    ]
+}
