@@ -36,7 +36,7 @@ namespace WuWa_MOD_WojuFixer.Core
         // Needed to actually apply the selected RabbitFX textures
         private const string RunRabbitFxSetTextures = @"run = Commandlist\RabbitFX\SetTextures";
 
-        // Aero eyes globals and Present-hook snippet (exactly like your desired output)
+        // Aero eyes globals and Present-hook snippet
         private const string AeroEyesConst1 = "global $aeroeyes = 0";
         private const string AeroEyesConst2 = "global $aeroeyesCheck = 0";
 
@@ -48,7 +48,7 @@ namespace WuWa_MOD_WojuFixer.Core
             "$aeroeyesCheck = 0"
         ];
 
-        // RoverM / RoverF aero-eyes diffuse hashes (from your examples)
+        // RoverM / RoverF aero-eyes diffuse hashes
         private const string RoverMEyesDiffuseNormal = "6913dea1";
         private const string RoverFEyesDiffuseNormal = "52c18227";
         private const string RoverEyesDiffuseAero = "29304593";
@@ -164,7 +164,7 @@ namespace WuWa_MOD_WojuFixer.Core
                 if (!LineContains(lines[i], AnchorOverrideSharedResources))
                     continue;
 
-                // Prevent re-injecting if we've already injected RabbitFX lines right after this anchor
+                // Prevent re-injecting if already injected RabbitFX lines right after this anchor
                 if (i + 1 < lines.Count && LineContains(lines[i + 1], "Resource\\RabbitFX\\"))
                     continue;
 
@@ -185,7 +185,7 @@ namespace WuWa_MOD_WojuFixer.Core
                 var injectedLinesForThisAnchor = new List<string>();
 
                 // Only Rover eyes component uses conditional toggle injection.
-                // RoverM eyes componentIndex = 4, RoverF eyes componentIndex = 5 (based on your examples).
+                // RoverM eyes componentIndex = 4, RoverF eyes componentIndex = 5
                 bool isRoverMEyesComponent = stableCharacter.CharacterHash.Equals("8b386efa", StringComparison.OrdinalIgnoreCase) && componentIndex.Value == 4;
                 bool isRoverFEyesComponent = stableCharacter.CharacterHash.Equals("4d3d06a6", StringComparison.OrdinalIgnoreCase) && componentIndex.Value == 5;
 
@@ -347,7 +347,7 @@ namespace WuWa_MOD_WojuFixer.Core
             // ...
             // (optional) this = ResourceTextureK
             //
-            // We map XXXXXXXX -> ResourceTextureK if "this =" exists, otherwise -> ResourceTextureN.
+            // Map XXXXXXXX -> ResourceTextureK if "this =" exists, otherwise -> ResourceTextureN.
             var map = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
 
             for (int i = 0; i < lines.Count; i++)
