@@ -16,8 +16,7 @@ namespace WuWa_MOD_WojuFixer
             Log("Ready (Woju).");
         }
 
-        // These handlers exist only to satisfy XAML if you hooked them up there.
-        // They are optional; you can remove the Checked/Unchecked attributes from XAML instead.
+        // These handlers exist only to satisfy XAML if hooked them up there.
         private void StableTexturesCheckBox_Checked(object sender, RoutedEventArgs e)
         {
             // Optional: Log("StableTextures enabled.");
