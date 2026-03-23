@@ -770,8 +770,23 @@
   },
 
   "RoverF31": {
-    "hash = 06482222": "hash = 4d3d06a6"
+    "hash = 29304593": "hash = 85700b55",
+    "hash = 84025dca": "hash = c8064e9e",
+    "hash = c79b5772": "hash = e57c98f4",
   },
+
+  "RoverF32": {
+    "hash = 04192868": "hash = 072b55de",
+    "hash = a01c9b96": "hash = aea47749",
+    "hash = c8064e9e": "hash = 2f7833ec",
+    "hash = e57c98f4": "hash = 7ff2811a",
+    "hash = ab6288a3": "hash = fa91f2cc",
+    "hash = f85b1b15": "hash = d9282cd3",
+    "hash = 747ada83": "hash = 94f6e8ed",
+    "hash = 52c18227": "hash = 8ee0408c",
+    "hash = 85700b55": "hash = f46fdbb4",
+  },
+
 
   "Sanhua13": {
     "hash = 2584190a": "hash = cef6494f",
