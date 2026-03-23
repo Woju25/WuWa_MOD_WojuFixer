@@ -35,7 +35,7 @@ To avoid confusion, this tool has a few requirements:
 ---
 
 ## 🛠️ How to use
-For visual learner, watch my video instead --> 
+For visual learner, watch my video instead --> [🔴Tutorial Video](https://youtu.be/VUNERw7Ct1Q)
 1. Open the app
 2. Select your mod folder (the folder that contains the `mod.ini`)
 3. (Optional) Enable **StableTextures Fix** if you need it
@@ -47,12 +47,8 @@ Your fixed mods will be saved automatically (backups are created).
 
 ---
 
-## ✅ Supported characters (current)
-**🔴 Female:**  
-Augusta, Cantarella, Carlotta, Cartethyia, Fleurdelys, Chisa, Ciaccona, Galbrena, Iuno, Lupa, Mornye, Phoebe, Phrolova, Rover (F), Shorekeeper, Zani
-
-**🔵 Male:**  
-Rover (M), Qiuyuan, Luuk, Xiangli Yao
+## List of supported / unsupported characters with StableTextures fix
+Read in [releases](https://github.com/Woju25/WuWa_MOD_WojuFixer/releases/tag/v3.2.0)
 
 ---
 
