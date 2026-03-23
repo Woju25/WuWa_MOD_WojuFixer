@@ -23,7 +23,7 @@ namespace WuWa_MOD_WojuFixer.Core
             _replacements = replacements ?? throw new ArgumentNullException(nameof(replacements));
         }
 
-        // Pre-scan: if nothing changes, we do nothing at all.
+        // Pre-scan: if nothing changes, do nothing at all.
         public (ProcessSummary Summary, List<FilePlan> Plans) Preview(string rootFolder)
         {
             if (string.IsNullOrWhiteSpace(rootFolder) || !Directory.Exists(rootFolder))
