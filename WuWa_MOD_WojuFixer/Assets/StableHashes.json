@@ -1092,49 +1092,49 @@
             "components": [
                 {
                     "componentIndex": 0,
-                    "diffuseHash": "04192868",
+                    "diffuseHash": "072b55de",
                     "lightmapHash": "68a6b802",
                     "normalmapHash": null,
                     "optionalNotes": "Component 0: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 1,
-                    "diffuseHash": "a01c9b96",
+                    "diffuseHash": "aea47749",
                     "lightmapHash": "2ff23d4c",
                     "normalmapHash": null,
                     "optionalNotes": "Component 1: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 2,
-                    "diffuseHash": "c8064e9e",
+                    "diffuseHash": "2f7833ec",
                     "lightmapHash": "071744c8",
                     "normalmapHash": null,
                     "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
                 },
                 {
                     "componentIndex": 3,
-                    "diffuseHash": "e57c98f4",
+                    "diffuseHash": "7ff2811a",
                     "lightmapHash": "1091025c",
-                    "normalmapHash": "ab6288a3",
+                    "normalmapHash": "fa91f2cc",
                     "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
                 },
                 {
                     "componentIndex": 4,
-                    "diffuseHash": "f85b1b15",
+                    "diffuseHash": "d9282cd3",
                     "lightmapHash": "372bd73a",
-                    "normalmapHash": "747ada83",
+                    "normalmapHash": "94f6e8ed",
                     "optionalNotes": "Component 4: Diffuse + Lightmap + Normalmap."
                 },
                 {
                     "componentIndex": 5,
-                    "diffuseHash": "52c18227",
+                    "diffuseHash": "8ee0408c",
                     "lightmapHash": "8383cbbf",
                     "normalmapHash": null,
                     "optionalNotes": "Component 5: Diffuse + Lightmap. (Eyes - normal)"
                 },
                 {
                     "componentIndex": 5,
-                    "diffuseHash": "85700b55",
+                    "diffuseHash": "f46fdbb4",
                     "lightmapHash": "c88cc1fc",
                     "normalmapHash": null,
                     "optionalNotes": "Component 5: Diffuse + Lightmap. (Eyes - aero)"
