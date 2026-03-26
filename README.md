@@ -35,7 +35,7 @@ To avoid confusion, this tool has a few requirements:
 ---
 
 ## 🛠️ How to use
-For visual learner, watch my video instead --> [🔴Tutorial Video](https://youtu.be/VUNERw7Ct1Q)
+For visual learner, watch my video instead --> [🔴Tutorial Video]([https://youtu.be/VUNERw7Ct1Q](https://youtu.be/9dBnp0R2Osk?si=af3rfzi8nlwWlrP5))
 1. Open the app
 2. Select your mod folder (the folder that contains the `mod.ini`)
 3. (Optional) Enable **StableTextures Fix** if you need it
