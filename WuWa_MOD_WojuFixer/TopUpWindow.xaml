@@ -1,0 +1,497 @@
+﻿<Window x:Class="WuWa_MOD_WojuFixer.TopUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WuWa Top-Up"
+        Width="500"
+        Height="500"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Icon="Woju.ico">
+
+    <Window.Background>
+        <ImageBrush ImageSource="/Lily2.png"
+                    Opacity="0.65"/>
+    </Window.Background>
+
+    <Grid Margin="24">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="254*"/>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+
+        <!-- ==================== TITLE ==================== -->
+
+        <Grid Grid.Row="0"
+              HorizontalAlignment="Center"
+              Margin="0,0,0,18">
+
+            <!-- Black outline -->
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="-2" Y="-2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="0" Y="-2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="2" Y="-2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="-2" Y="0"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="2" Y="0"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="-2" Y="2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="0" Y="2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       HorizontalAlignment="Center">
+
+                <TextBlock.RenderTransform>
+                    <TranslateTransform X="2" Y="2"/>
+                </TextBlock.RenderTransform>
+
+            </TextBlock>
+
+            <!-- Yellow text -->
+            <TextBlock Text="WuWa Top-Up"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="#FFD700"
+                       HorizontalAlignment="Center"/>
+
+        </Grid>
+
+
+        <!-- ==================== DESCRIPTION ==================== -->
+
+        <StackPanel Grid.Row="1"
+                    VerticalAlignment="Top" Margin="0,130,0,0">
+
+
+            <!-- First line -->
+            <Grid HorizontalAlignment="Center">
+
+                <!-- Black outline -->
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <!-- Yellow text -->
+                <TextBlock Text="Get up to 28% off Wuthering Waves Top-Up"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="#FFD700"
+                           TextAlignment="Center"/>
+
+            </Grid>
+
+
+            <!-- Second line -->
+            <Grid HorizontalAlignment="Center"
+                  Margin="0,2,0,10">
+
+                <!-- Black outline -->
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <!-- Yellow text -->
+                <TextBlock Text="using my special referral link."
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="#FFD700"
+                           TextAlignment="Center"/>
+
+            </Grid>
+
+
+            <!-- Third line -->
+            <Grid HorizontalAlignment="Center">
+
+                <!-- Black outline -->
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="-2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="0"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="-2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="0" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="Black"
+                           TextAlignment="Center">
+
+                    <TextBlock.RenderTransform>
+                        <TranslateTransform X="2" Y="2"/>
+                    </TextBlock.RenderTransform>
+
+                </TextBlock>
+
+                <!-- Yellow text -->
+                <TextBlock Text="Simple, fast, and works globally."
+                           FontSize="14"
+                           Foreground="#FFD700"
+                           TextAlignment="Center"/>
+
+            </Grid>
+
+        </StackPanel>
+
+
+        <!-- ==================== BUTTONS ==================== -->
+
+        <StackPanel Grid.Row="3"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Margin="0,20,0,0">
+
+            <Button x:Name="TopUpButton"
+                    Content="Top-Up"
+                    Width="150"
+                    Height="36"
+                    Margin="0,0,10,0"
+                    Background="#FFCF7EFF"
+                    FontWeight="Bold"
+                    Click="TopUpButton_Click"/>
+
+            <Button x:Name="TopUpGuideButton"
+                    Content="Top-Up Guide"
+                    Width="150"
+                    Height="36"
+                    Background="White"
+                    FontWeight="Bold"
+                    Click="TopUpGuideButton_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

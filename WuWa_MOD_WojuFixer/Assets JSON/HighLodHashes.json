@@ -1,0 +1,251 @@
+{
+  "characters": [
+    {
+      "name": "Aemeath",
+      "enabled": true,
+      "detect_any_hashes": ["2738a0f0"],
+      "components": [
+        {
+          "component_index": 0,
+          "diffuse": { "base": "262dd8c5", "lod_high": "e98f32da" },
+          "lightmap": { "base": "aa69d267", "lod_high": "66f3edc5" },
+          "forteLightmap": { "base": "aa69d267", "lod_high": "109cc560" }
+        },
+        {
+          "component_index": 1,
+          "diffuse": { "base": "1571587a", "lod_high": "3e1e3e10" },
+          "lightmap": { "base": "34897ad2", "lod_high": "3431080a" },
+          "forteLightmap": { "base": "34897ad2", "lod_high": "d01d0380" }
+        },
+        {
+          "component_index": 2,
+          "diffuse": { "base": "fcc6992c", "lod_high": "d90b6260" }
+        },
+        {
+          "component_index": 3,
+          "diffuse": { "base": "22932116", "lod_high": "28d9badc" },
+          "lightmap": { "base": "c154eedc", "lod_high": "a457850c" },
+          "normalmap": { "base": "c0c34a21", "lod_high": "20f6aa93" },
+          "skin": { "base": "c6acaf94", "lod_high": "6a73cfad" },
+          "glow": { "base": "1944212c", "lod_high": "c41bbf0b" },
+
+          "forte": { "base": "22932116", "lod_high": "cf137770" },
+          "forteLightmap": { "base": "c154eedc", "lod_high": "4db76b74" },
+          "forteNormalmap": { "base": "c0c34a21", "lod_high": "8ca059b1" },
+          "forteGlow": { "base": "1944212c", "lod_high": "c5673dfc" }
+        },
+        {
+          "component_index": 4,
+          "diffuse": { "base": "a576ce3e", "lod_high": "e705968b" },
+          "lightmap": { "base": "50522981", "lod_high": "b3927ca5" },
+          "normalmap": { "base": "0eb70c8f", "lod_high": "0eb70c8f" },
+          "glow": { "base": "ef5edd1b", "lod_high": "3201433c" },
+
+          "forte": { "base": "a576ce3e", "lod_high": "a4a79abf" },
+          "forteLightmap": { "base": "50522981", "lod_high": "9692bd97" },
+          "forteNormalmap": { "base": "0eb70c8f", "lod_high": "603341e7" },
+          "forteGlow": { "base": "ef5edd1b", "lod_high": "1cff0950" }
+        }
+      ]
+    },
+    {
+      "name": "Lynae",
+      "enabled": true,
+      "detect_any_hashes": ["0c33d628"],
+      "components": [
+        {
+          "component_index": 0,
+          "diffuse": { "base": "7d044e58", "lod_high": "6db7fa4d" },
+          "lightmap": { "base": "997e0a9a", "lod_high": "537f572e" }
+        },
+        {
+          "component_index": 1,
+          "diffuse": { "base": "265d844d", "lod_high": "ad3a2e99" },
+          "lightmap": { "base": "bfa33038", "lod_high": "9a800365" }
+        },
+        {
+          "component_index": 2,
+          "diffuse": { "base": "0f19cf16", "lod_high": "f33f544b" }
+        },
+        {
+          "component_index": 3,
+          "diffuse": { "base": "179ec8b9", "lod_high": "bd95722c" },
+          "lightmap": { "base": "d5dfa096", "lod_high": "e537f0af" },
+          "normalmap": { "base": "739ef6e9", "lod_high": "f28a011d" }
+        },
+        {
+          "component_index": 4,
+          "diffuse": { "base": "1998df83", "lod_high": "fe862f0f" },
+          "lightmap": { "base": "94d7281e", "lod_high": "0002508d" },
+          "normalmap": { "base": "0f5d6c08", "lod_high": "b1564ef0" }
+        },
+        {
+          "component_index": 5,
+          "diffuse": { "base": "f94bbcf4", "lod_high": "adb1f678" },
+          "lightmap": { "base": "d2ef0438", "lod_high": "cd97ef19" },
+          "normalmap": { "base": "0eacd18a", "lod_high": "e8d01339" }
+        },
+        {
+          "component_index": 7,
+          "diffuse1": { "base": "c84b599c", "lod_high": "1514c7bb" },
+          "diffuse2": { "base": "c84b599c", "lod_high": "9a2f9587" }
+        }
+      ],
+      "convene_screen": {
+        "texture0ConveneDiffuse": { "base": "7d044e58", "lod_high": "7197796d" },
+        "texture1ConveneDiffuse": { "base": "265d844d", "lod_high": "137fa652" },
+
+        "texture2ConveneDiffuse1": { "base": "0f19cf16", "lod_high": "5d97825c" },
+        "texture2ConveneDiffuse2": { "base": "0f19cf16", "lod_high": "483b59ac" },
+
+        "texture3ConveneDiffuse1": { "base": "179ec8b9", "lod_high": "fe7f9a4c" },
+        "texture3ConveneDiffuse2": { "base": "179ec8b9", "lod_high": "4f2812cc" },
+
+        "texture4ConveneDiffuse1": { "base": "1998df83", "lod_high": "7039ca55" },
+        "texture4ConveneDiffuse2": { "base": "1998df83", "lod_high": "b70b45ae" },
+        "texture4ConveneDiffuse3": { "base": "1998df83", "lod_high": "b143f6ad" },
+        "texture4ConveneDiffuse4": { "base": "1998df83", "lod_high": "bae1b5ea" },
+        "texture4ConveneDiffuse5": { "base": "1998df83", "lod_high": "9425ab8d" },
+        "texture4ConveneDiffuse6": { "base": "0f5d6c08", "lod_high": "b744d729" },
+        "texture4ConveneDiffuse7": { "base": "1998df83", "lod_high": "e5c22e95" },
+
+        "texture4ConveneLightmap": { "base": "4feb8f2c", "lod_high": "4feb8f2c" },
+
+        "texture7ConveneDiffuse1": { "base": "c84b599c", "lod_high": "61138305" },
+        "texture7ConveneDiffuse2": { "base": "c84b599c", "lod_high": "be16f064" },
+        "texture7ConveneDiffuse3": { "base": "c84b599c", "lod_high": "c84b599c" }
+      }
+    },
+    {
+    "name": "Mornye",
+    "enabled": true,
+    "detect_any_hashes": ["691e4f5f"],
+    "components": [
+        {
+        "component_index": 0,
+        "diffuse": { "base": "4ea9b46d", "lod_high": "99d11a52" },
+        "lightmap": { "base": "8702c624", "lod_high": "9e035ced" }
+        },
+        {
+        "component_index": 1,
+        "diffuse": { "base": "de341944", "lod_high": "38f56c33" },
+        "lightmap": { "base": "b58c000f", "lod_high": "a3365311" }
+        },
+        {
+        "component_index": 2,
+        "diffuse": { "base": "e8e3da77", "lod_high": "5fb9722b" }
+        },
+        {
+        "component_index": 3,
+        "diffuse": { "base": "76b6fe88", "lod_high": "fd4009b2" },
+        "lightmap": { "base": "73f1de8a", "lod_high": "d8f2f751" },
+        "normalmap": { "base": "0bb1e433", "lod_high": "653b3ddd" },
+        "glow": { "base": "2dd3d65d", "lod_high": "a8919206" },
+        "metal": { "base": "fb7a0fd2", "lod_high": "262591f5" }
+        },
+        {
+        "component_index": 4,
+        "diffuse": { "base": "89a5a60b", "lod_high": "70e89fda" },
+        "lightmap": { "base": "47708382", "lod_high": "dad2d521" },
+        "normalmap": { "base": "75f3ce40", "lod_high": "a8ac5067" }
+        },
+        {
+        "component_index": 5,
+        "diffuse": { "base": "ad78bb96", "lod_high": "08bbee12" },
+        "lightmap": { "base": "ccd4b666", "lod_high": "f6a6ce4b" },
+        "normalmap": { "base": "701f7bac", "lod_high": "c808ba6c" },
+        "metal": { "base": "61d64305", "lod_high": "bc89dd22" }
+        },
+        {
+        "component_index": 6,
+        "diffuseEyes": { "base": "80ee93bc", "lod_high": "f07936d9" }
+        },
+        {
+        "component_index": 7,
+        "diffuse": { "base": "a2b39668", "lod_high": "983a13b7" },
+        "lightmap": { "base": "190d9e78", "lod_high": "86894cf7" },
+        "normalmap": { "base": "0d3ee66e", "lod_high": "fc850acc" },
+        "metal": { "base": "f46e3fe6", "lod_high": "2931a1c1" }
+        }
+    ]
+    },
+    {
+      "name": "Luuk",
+      "enabled": true,
+      "detect_any_hashes": ["f16f00ed"],
+      "components": [
+        {
+          "component_index": 0,
+          "diffuse": { "base": "e74884cc", "lod_high": "bc6b08aa" },
+          "diffuse2": { "base": "e74884cc", "lod_high": "33d84baf" },
+          "lightmap": { "base": "2845cb12", "lod_high": "99f84e17" },
+          "lightmap2": { "base": "2845cb12", "lod_high": "bbee91dd" }
+        },
+        {
+          "component_index": 1,
+          "diffuse": { "base": "0f43c23c", "lod_high": "29cbe246" },
+          "diffuse2": { "base": "0f43c23c", "lod_high": "46339426" },
+          "lightmap": { "base": "e0a195cd", "lod_high": "a03b6e72" },
+          "lightmap2": { "base": "e0a195cd", "lod_high": "16b0ae89" }
+        },
+        {
+          "component_index": 2,
+          "diffuse": { "base": "a8439c02", "lod_high": "9cd23722" }
+        },
+        {
+          "component_index": 3,
+          "diffuse": { "base": "dca390b7", "lod_high": "20aa0f18" },
+          "diffuse2": { "base": "dca390b7", "lod_high": "c7f4bae4" },
+          "lightmap": { "base": "8c0477bc", "lod_high": "8fa945ae" },
+          "lightmap2": { "base": "8c0477bc", "lod_high": "888edcb8" },
+          "normalmap": { "base": "1b1a2c99", "lod_high": "9fb2c53e" },
+          "normalmap2": { "base": "1b1a2c99", "lod_high": "a85bd5db" },
+          "metal": { "base": "7769baf5", "lod_high": "138fe85e" },
+          "metal2": { "base": "7769baf5", "lod_high": "aa3624d2" },
+          "glow": { "base": "b586ff08", "lod_high": "a56ee0a8" },
+          "glow2": { "base": "b586ff08", "lod_high": "a8f453e7" }
+        },
+        {
+          "component_index": 4,
+          "diffuse": { "base": "2d780faa", "lod_high": "a27e260c" },
+          "diffuse2": { "base": "2d780faa", "lod_high": "8cbddd43" },
+          "lightmap": { "base": "a9483192", "lod_high": "961e0832" },
+          "lightmap2": { "base": "a9483192", "lod_high": "5f1f1eec" },
+          "normalmap": { "base": "57566e20", "lod_high": "513f8b01" },
+          "normalmap2": { "base": "57566e20", "lod_high": "fd37b518" },
+          "metal": { "base": "74f74bf2", "lod_high": "47bb4149" },
+          "metal2": { "base": "74f74bf2", "lod_high": "a9a8d5d5" }
+        },
+        {
+          "component_index": 5,
+          "diffuse": { "base": "c3e7bbd3", "lod_high": "da651c72" },
+          "diffuse2": { "base": "c3e7bbd3", "lod_high": "ac3a0c62" },
+          "lightmap": { "base": "fa17d24b", "lod_high": "310f7090" },
+          "lightmap2": { "base": "fa17d24b", "lod_high": "d92be979" },
+          "normalmap": { "base": "655d5084", "lod_high": "923d0a86" },
+          "normalmap2": { "base": "655d5084", "lod_high": "6c254ea5" },
+          "metal": { "base": "dba27b64", "lod_high": "51f0c0f3" },
+          "metal2": { "base": "dba27b64", "lod_high": "06fde543" }
+        },
+        {
+          "component_index": 6,
+          "diffuse": { "base": "70bb6f8e", "lod_high": "cd2fb13d" },
+          "diffuse2": { "base": "70bb6f8e", "lod_high": "01681bdf" },
+          "lightmap": { "base": "64fa4655", "lod_high": "ad470f49" },
+          "lightmap2": { "base": "64fa4655", "lod_high": "4305d9ae" },
+          "normalmap": { "base": "c53088e7", "lod_high": "cdff8e24" },
+          "normalmap2": { "base": "c53088e7", "lod_high": "186f16c0" },
+          "metal": { "base": "b1ed5893", "lod_high": "7fa978b6" },
+          "metal2": { "base": "b1ed5893", "lod_high": "6cb2c6b4" }
+        },
+        {
+          "component_index": 7,
+          "diffuse": { "base": "434e4184", "lod_high": "13e2aab0" },
+          "diffuse2": { "base": "434e4184", "lod_high": "b419e76c" },
+          "diffuse3": { "base": "747198c9", "lod_high": "afd47370" },
+          "diffuse4": { "base": "747198c9", "lod_high": "5f628b3b" }
+        }
+      ]
+    }
+  ]
+}

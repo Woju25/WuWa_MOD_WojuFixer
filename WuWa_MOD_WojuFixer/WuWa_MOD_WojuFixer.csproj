@@ -1,4 +1,5 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -10,30 +11,72 @@
     <ApplicationIcon>Woju.ico</ApplicationIcon>
   </PropertyGroup>
 
+  <!-- Avoid including these files as default None items -->
   <ItemGroup>
     <None Remove="4 Transparent.png" />
-    <None Remove="Assets\hashes.json" />
-    <None Remove="Assets\StableHashes.json" />
+    <None Remove="Assets\**\*.json" />
+    <None Remove="Hiyuki.jpg" />
+    <None Remove="Hsin.jpg" />
+    <None Remove="Hsin2.jpg" />
+    <None Remove="Lily.png" />
+    <None Remove="Lily2.png" />
+    <None Remove="Lucy Rebecca.jpg" />
+    <None Remove="LucyRebecca.jpg" />
+    <None Remove="Qingxiao.png" />
+    <None Remove="QingxiaoTOPUP.png" />
+    <None Remove="Suoming.png" />
     <None Remove="thumb-1920-1406017.jpg" />
     <None Remove="Woju.ico" />
+    <None Remove="YangyangSP.png" />
   </ItemGroup>
 
+  <!-- All JSON databases are published into Assets JSON -->
   <ItemGroup>
-    <Content Include="Assets\hashes.json">
-      <Link>hashes.json</Link>
+    <Content Include="Assets\**\*.json">
+      <Link>Assets JSON\%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-
-    <Content Include="Assets\StableHashes.json">
-      <Link>StableHashes.json</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
   </ItemGroup>
 
+  <!-- Image resources -->
   <ItemGroup>
     <Resource Include="4 Transparent.png" />
+
+    <Resource Include="Hiyuki.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="Hsin.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="Hsin2.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="Lily.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="Lily2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="LucyRebecca.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
+    <Resource Include="Qingxiao.png" />
+    <Resource Include="QingxiaoTOPUP.png" />
+
+    <Resource Include="Suoming.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+
     <Resource Include="thumb-1920-1406017.jpg" />
     <Resource Include="Woju.ico" />
+    <Resource Include="YangyangSP.png" />
   </ItemGroup>
 
 </Project>

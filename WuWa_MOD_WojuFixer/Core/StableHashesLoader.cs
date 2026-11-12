@@ -16,6 +16,7 @@ namespace WuWa_MOD_WojuFixer.Core
     {
         public string Name { get; set; } = "";
         public string CharacterHash { get; set; } = "";
+        public string? FormTriggerHash { get; set; }
         public string? LastVerifiedGameVersion { get; set; }
         public string? LastUpdatedDate { get; set; }
         public bool Enabled { get; set; } = true;
@@ -25,9 +26,13 @@ namespace WuWa_MOD_WojuFixer.Core
     public sealed class StableComponent
     {
         public int ComponentIndex { get; set; }
+        public string? State { get; set; }
         public string? DiffuseHash { get; set; }
         public string? LightmapHash { get; set; }
         public string? NormalmapHash { get; set; }
+        public string? MaterialmapHash { get; set; }
+        public string? CutoutmapHash { get; set; }
+        public string? SpecialmapHash { get; set; }
         public string? OptionalNotes { get; set; }
     }
 

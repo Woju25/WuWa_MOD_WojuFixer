@@ -1,0 +1,213 @@
+{
+  "Aemeath35": {
+    "CharacterHash": "8d8097bc",
+    "DerivedHashes": [
+      {
+        "SourceHash": "22932116",
+        "DerivedHash": "86c4b5fd"
+      },
+      {
+        "SourceHash": "22932116",
+        "DerivedHash": "1fd24d90"
+      },
+      {
+        "SourceHash": "a576ce3e",
+        "DerivedHash": "a54870d2"
+      },
+      {
+        "SourceHash": "a576ce3e",
+        "DerivedHash": "7e6c8d99"
+      }
+    ]
+  },
+
+  "Cantarella35": {
+    "CharacterHash": "5432f939",
+    "DerivedHashes": [
+      {
+        "SourceHash": "f8a325ca",
+        "DerivedHash": "2e3235e6"
+      },
+      {
+        "SourceHash": "f8a325ca",
+        "DerivedHash": "e236db0d"
+      },
+      {
+        "SourceHash": "829922e0",
+        "DerivedHash": "347ad703"
+      },
+      {
+        "SourceHash": "829922e0",
+        "DerivedHash": "ffbc2cb6"
+      },
+      {
+        "SourceHash": "9120962f",
+        "DerivedHash": "42158681"
+      },
+      {
+        "SourceHash": "9120962f",
+        "DerivedHash": "086dd026"
+      },
+      {
+        "SourceHash": "86d58b2c",
+        "DerivedHash": "efc6322d"
+      },
+      {
+        "SourceHash": "86d58b2c",
+        "DerivedHash": "85874a2d"
+      },
+      {
+        "SourceHash": "0e311b14",
+        "DerivedHash": "99d58ba6"
+      },
+      {
+        "SourceHash": "0e311b14",
+        "DerivedHash": "17dab4aa"
+      }
+    ]
+  },
+"Chisa35": {
+  "CharacterHash": "afa1587c",
+  "DerivedHashes": [
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "506f0b79"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "d53a5a8c"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "5e14be5b"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "9a431a66"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "83563f0a"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "c249d5b4"
+    },
+    {
+      "SourceHash": "165f3a1b",
+      "DerivedHash": "d8303fe2"
+    },
+
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "cedc72aa"
+    },
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "6b304165"
+    },
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "81a53240"
+    },
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "7fe80093"
+    },
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "cfdfc11e"
+    },
+    {
+      "SourceHash": "526b9ed0",
+      "DerivedHash": "f9169fa8"
+    },
+
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "0a4b1b48"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "2de6e57e"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "986dc585"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "3166f81c"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "723978c1"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "ba7e29d1"
+    },
+    {
+      "SourceHash": "f642139e",
+      "DerivedHash": "f642139e"
+    },
+
+    {
+      "SourceHash": "3f0e6f21",
+      "DerivedHash": "26a677a1"
+    },
+    {
+      "SourceHash": "3f0e6f21",
+      "DerivedHash": "778ee915"
+    },
+
+    {
+      "SourceHash": "2b6f8bcb",
+      "DerivedHash": "6b1550b0"
+    },
+    {
+      "SourceHash": "2b6f8bcb",
+      "DerivedHash": "55c52ec3"
+    },
+    {
+      "SourceHash": "2b6f8bcb",
+      "DerivedHash": "358df1be"
+    },
+    {
+      "SourceHash": "2b6f8bcb",
+      "DerivedHash": "a7ab2f73"
+    },
+
+    {
+      "SourceHash": "019c268e",
+      "DerivedHash": "8d339085"
+    },
+    {
+      "SourceHash": "019c268e",
+      "DerivedHash": "72c41737"
+    },
+    {
+      "SourceHash": "019c268e",
+      "DerivedHash": "be65fe72"
+    },
+    {
+      "SourceHash": "019c268e",
+      "DerivedHash": "c15ec615"
+    }
+  ]
+},
+
+  "Lucilla35OW": {
+    "CharacterHash": "356cc2a3",
+    "DerivedHashes": [
+      {
+        "SourceHash": "e00640f8",
+        "DerivedHash": "b76a23ec"
+      },
+      {
+        "SourceHash": "b2f4580e",
+        "DerivedHash": "3a5f285d"
+      }
+    ]
+  }
+}

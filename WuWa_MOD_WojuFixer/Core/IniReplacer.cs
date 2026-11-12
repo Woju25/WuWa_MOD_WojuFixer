@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace WuWa_MOD_WojuFixer.Core
 {
+    // Shared replacement rule used by IniReplacer and ModIniProcessor.
     public sealed class ReplaceResult
     {
         public required string UpdatedText { get; init; }
@@ -13,7 +14,7 @@ namespace WuWa_MOD_WojuFixer.Core
 
     public static class IniReplacer
     {
-        // Applies rules in order, repeating full passes until stable (or maxPasses).
+
         public static ReplaceResult ReplaceStepByStepUntilStable(
             string originalText,
             IReadOnlyList<Replacement> replacements,
